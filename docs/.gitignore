@@ -1,5 +1,12 @@
-# Created by https://www.toptal.com/developers/gitignore/api/macos
-# Edit at https://www.toptal.com/developers/gitignore?templates=macos
+
+# Created by https://www.toptal.com/developers/gitignore/api/macos,jekyll
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,jekyll
+
+### Jekyll ###
+_site/
+.sass-cache/
+.jekyll-cache/
+.jekyll-metadata
 
 ### macOS ###
 # General
@@ -30,4 +37,4 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-# End of https://www.toptal.com/developers/gitignore/api/macos
+# End of https://www.toptal.com/developers/gitignore/api/macos,jekyll
