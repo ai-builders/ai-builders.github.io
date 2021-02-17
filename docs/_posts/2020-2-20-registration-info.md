@@ -67,6 +67,11 @@ title: รายละเอียดการลงทะเบียน
 เราจะใช้ระบบ flipped classroom โดยให้ผู้เรียนฟัง
 สำหรับตารางเรียนเราจะอิงตาม Practical Deep Learning for Coders ของ fast.ai โดยที่จะให้น้องๆเรียน 1 คาบต่อสัปดาห์ ทั้งหมด 8 สัปดาห์ และมี recap 1 ชั่วโมงทุกวันพุธ หลังจากนั้น 30 นาทีเป็นการคุยโครงงานเพื่อกลับไปพัฒนาต่อ ทุก meeting จะจัดขึ้นใน [Gather Town](https://gather.town/)
 
+<figure align="center">
+  <img src="{{ site.baseurl }}/images/gathertown-example.jpg" style="width: 400px;"/>
+  <figcaption>ตัวอย่างการเจอกันใน Gather Town</figcaption>
+</figure>
+
 <b>โครงงานและการดำเนินโครงการ</b>
 
 * สัปดาห์ที่ 0 เจอกันเบื้องต้น:
