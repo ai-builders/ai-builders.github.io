@@ -137,4 +137,13 @@ dls = bears.dataloaders(path)
 dls.train.show_batch(max_n=8, nrows=2, unique=True)
 ```
 
-18. ตอบคำถามท้ายบทได้ที่ [aiquizzes](https://aiquizzes.com/howto)
+18. หากใครสมัคร Bing Search API key ไม่ได้ ให้ใช้ `search_images_ddg` หารูปจาก [DuckDuckGo](https://duckduckgo.com/) แทนโยไม่จำเป็นต้องใช้ API key
+
+``` py
+#!pip install azure-cognitiveservices-search-imagesearch
+
+from utils import *
+urls = search_images_ddg(u'macao parrot', max_n=200)
+```
+
+19. ตอบคำถามท้ายบทได้ที่ [aiquizzes](https://aiquizzes.com/howto)
