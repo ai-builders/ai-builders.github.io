@@ -1,6 +1,12 @@
-# AI Builders
+<p align="center">
+  <br>
+  <img src="docs/images/logo-image.png" />
+  <br>
+</p>
 
-a program for kids who want to build good AI
+<h3 align="center">
+  <p>a program for kids who want to build good AI</p>
+</h3>
 
 ## เว็บไซต์ (Website)
 
@@ -12,3 +18,8 @@ a program for kids who want to build good AI
 * หน้าลงทะเบียน `register.md`
 * ข้อพึงปฏิบัติ `code-of-conduct.md`
 * บทความ `blog.md`
+
+## Organizers
+
+* VISTEC
+* Central
