@@ -1,9 +1,6 @@
-# AI Builders
-
-a program for kids who want to build good AI
-
-<p float="left">
+<p float="center">
   <img src="docs/images/logo-image.png" />
+  <h2>a program for kids who want to build good AI</h2>
 </p>
 
 ## เว็บไซต์ (Website)
