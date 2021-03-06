@@ -1,7 +1,12 @@
-<p float="center">
+<p align="center">
+  <br>
   <img src="docs/images/logo-image.png" />
-  <h2>a program for kids who want to build good AI</h2>
+  <br>
 </p>
+
+<h3 align="center">
+  <p>a program for kids who want to build good AI</p>
+</h3>
 
 ## เว็บไซต์ (Website)
 
