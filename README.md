@@ -3,7 +3,7 @@
 a program for kids who want to build good AI
 
 <p float="left">
-  <img src="docs/images/logo-image.png" width="600" />
+  <img src="docs/images/logo-image.png" />
 </p>
 
 ## เว็บไซต์ (Website)
