@@ -2,6 +2,10 @@
 
 a program for kids who want to build good AI
 
+<p float="left">
+  <img src="docs/images/logo-image.png" width="600" />
+</p>
+
 ## เว็บไซต์ (Website)
 
 หน้าเว็บไซต์ของโครงการอยู่ในโฟลเดอร์ `docs` และหน้าสรุปเนื้อหาของแต่ละโพสต์จะอยู่ใน `docs/_posts/`
@@ -12,3 +16,8 @@ a program for kids who want to build good AI
 * หน้าลงทะเบียน `register.md`
 * ข้อพึงปฏิบัติ `code-of-conduct.md`
 * บทความ `blog.md`
+
+## Organizers
+
+* VISTEC
+* Central
