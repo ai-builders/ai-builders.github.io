@@ -14,14 +14,26 @@ permalink: /about/
 เราเล็งเห็นว่าการสอนทักษะข้อมูลทำให้น้องๆสามารถใช้ทักษะนี้เข้าไปใช้งานกับงานหลากหลายสายหลังจากเข้ามหาวิทยาลัย
 ไม่จำเป็นว่าต้องเรียนสายคอมพิวเตอร์ และสามารถสร้างความแตกต่างและประโยชน์ให้กับสายงานได้
 
-<h2 align="center">
-  <p>Our Sponsors</p>
-</h2>
-<p align="center">
-  <br>
-  <img src="{{ site.baseurl }}/images/vistec_logo.png"  width="200" />
-  <img src="{{ site.baseurl }}/images/airesearch.png"  width="200" />
-  <img src="{{ site.baseurl }}/images/central_logo.png"  width="100" />
-  <img src="{{ site.baseurl }}/images/central_tech_logo.png"  width="150" />
-  <br>
+<style>
+  p.sponsor-imgs {
+    margin-top: 25px;
+  }
+  .row {
+    margin-top: 15px;
+    text-align: center;
+  }
+  .row > img {
+    margin: 0px 20px;
+  }
+</style>
+
+<p class="sponsor-imgs">
+  <div class="row">
+    <img src="{{ site.baseurl }}/images/vistec_logo.png"  width="200" />
+    <img src="{{ site.baseurl }}/images/airesearch.png"  width="200" />
+  </div>
+  <div class="row">
+    <img src="{{ site.baseurl }}/images/central_logo.png"  width="100" />
+    <img src="{{ site.baseurl }}/images/central_tech_logo.png"  width="150" />
+  </div>
 </p>
