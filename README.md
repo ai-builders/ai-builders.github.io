@@ -40,14 +40,15 @@
 * หน้าลงทะเบียน `register.md`
 * ข้อพึงปฏิบัติ `code-of-conduct.md`
 * บทความ `blog.md`
+
 ## Organizers
 
 * VISTEC
 * Central
 
 <p align="center">
-  <img src="docs/images/vistec_logo.png"  width="200" />
-  <img src="docs/images/airesearch.png"  width="200" />
-  <img src="docs/images/central_logo.png"  width="100" />
-  <img src="docs/images/central_tech_logo.png"  width="150" />
+  <img style="margin: 10px 20px;" src="docs/images/vistec_logo.png"  width="200" />
+  <img style="margin: 10px 20px;" src="docs/images/airesearch.png"  width="200" />
+  <img style="margin: 10px 20px;" src="docs/images/central_logo.png"  width="100" />
+  <img style="margin: 10px 20px;" src="docs/images/central_tech_logo.png"  width="150" />
 </p>
