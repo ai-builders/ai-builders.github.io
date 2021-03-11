@@ -26,18 +26,18 @@ learn.fit_one_cycle(5, 5e-3, wd=0.1)
 ``` py
 class DotProduct(Module):
     def __init__(self, n_users, n_movies, n_factors, y_range=(0,5.5)):
-        self.user_factors = Embedding(n_users, n_factors)
+        self.user_factors = Embedding(n_users, n_factors) # Embedding layer ทำหน้าที่เหมือนการดึง index โดยใช้วิธีคูณ matrix แทน
         self.movie_factors = Embedding(n_movies, n_factors)
         self.y_range = y_range
         
     def forward(self, x):
         users = self.user_factors(x[:,0])
         movies = self.movie_factors(x[:,1])
-        return sigmoid_range((users * movies).sum(dim=1), *self.y_range)
+        return sigmoid_range((users * movies).sum(dim=1), *self.y_range) # user x movie embeedings และครอบด้วย sigmoid function
 
-model = DotProduct(n_users, n_movies, 50)
-learn = Learner(dls, model, loss_func=MSELossFlat())
-learn.fit_one_cycle(5, 5e-3)
+model = DotProduct(n_users, n_movies, 50) # สร้างโมเดล กำหนดขนาด (dimension) ของ latent factor = 50
+learn = Learner(dls, model, loss_func=MSELossFlat()) # สร้าง learner จาก dataloader, model และ loss ใช้ mean-square error
+learn.fit_one_cycle(5, 5e-3) # fit ทั้งหมด 5 epochs ด้วย learning rate = 5e-3 = 0.005
 ```
 
 `50` ในที่นี้คือขนาดของ Latent Factor (Embeddings)
@@ -75,14 +75,20 @@ df['ProductSize'].cat.set_categories(sizes, ordered=True, inplace=True) # เซ
 * หักใช้งาน `TabularPandas` และ `TablularProc`
 
 ``` py
-procs = [Categorify, FillMissing]
+procs = [Categorify, FillMissing] # processors
 cond = (df.saleYear<2011) | (df.saleMonth<10)
 train_idx = np.where( cond)[0]
 valid_idx = np.where(~cond)[0]
 
 splits = (list(train_idx),list(valid_idx))
-cont, cat = cont_cat_split(df, 1, dep_var=dep_var) # แบ่ง column เป็นประเภท continuous variables, categorical variables
-to = TabularPandas(df, procs, cat, cont, y_names=dep_var, splits=splits)
+cont, cat = cont_cat_split(df, 1, dep_var=dep_var) # แบ่ง column เป็นประเภท continuous variables, categorical variables ด้วยฟังก์ชั่นจาก Fast AI tabular
+# สร้าง dataset จาก dataframe
+to = TabularPandas(df, # dataframe
+                   procs, # processors
+                   cat, # list ของ columns ที่เป็น categorical
+                   cont, # list ของ columns ที่เป็น continuous
+                   y_names=dep_var, # dependent variable (SalePrice)
+                   splits=splits) # index ของ train และ validation
 ```
 
 โดย `TabularPandas` จะรับ dataframe, processors, column ที่เป็น categorical, column ที่เป็น continuous, และค่าที่เราจะทำนาย (Dependent variable)
@@ -92,7 +98,7 @@ to = TabularPandas(df, procs, cat, cont, y_names=dep_var, splits=splits)
 ``` py
 # แบ่ง tabular object (to) ที่ได้เป็น train, valid
 xs, y = to.train.xs, to.train.y
-valid_xs, valid_y = to.valid.xs, to.valid.
+valid_xs, valid_y = to.valid.xs, to.valid.y
 
 m = DecisionTreeRegressor(max_leaf_nodes=4) # สร้าง decision tree โดยมี nodes สุดท้ายจำนวน 4 ใบ
 m.fit(xs, y) # fit ข้อมูลที่เราทำขึ้นมา
@@ -116,13 +122,13 @@ m.fit(xs, y) # fit ข้อมูลที่เราทำขึ้นมา
   * นอกจากนั้นเรายังสามารถใช้ `cluster_columns(xs_imp)` เพื่อดูว่า features ใดที่มีความใกล้เคียงกันเพื่อนำ column พวกนั้นออกไปได้อีก
   * จากตัวอย่างที่ Jeremy ยกตัวอย่างจะเห็นว่าเมื่อเราเอา columns ออกไปแล้ว แต่ error หลังจากการสร้างโมเดลยังใกล้เคียงกับของเดิมที่ใช้ทุก features
 
-* ทำความเข้าใจโมเดด้วยวิธีอื่นๆได้อีก เช่นการใช้ `plot_partial_dependence` เพื่อความสัมพันธ์ระหว่างฟีเจอร์ที่เราสนใจและ
+* ทำความเข้าใจโมเดลด้วยวิธีอื่นๆได้อีก เช่นการใช้ `plot_partial_dependence` เพื่อความสัมพันธ์ระหว่างฟีเจอร์ที่เราสนใจและ Dependent variable (SalePrice)
 
 ``` py
 from sklearn.inspection import plot_partial_dependence
 fig,ax = plt.subplots(figsize=(12, 4))
 plot_partial_dependence(m, valid_xs_final, ['YearMade','ProductSize'],
-                        grid_resolution=20, ax=ax);
+                        grid_resolution=20, ax=ax) # พล็อตเพื่อดู effect ของปีและขนาดของ product ต่อ SalePrice
 ```
 
 หรือใช้ `waterfall` plot เพื่อหาว่าฟีเจอร์อะไรมีผลต่อโมเดลบ้าง
@@ -131,10 +137,14 @@ plot_partial_dependence(m, valid_xs_final, ['YearMade','ProductSize'],
 
 ``` py
 # สร้าง dataset จาก dataframe
-procs_nn = [Categorify, FillMissing, Normalize]
-to_nn = TabularPandas(df_nn_final, procs_nn, cat_nn, cont_nn,
-                      splits=splits, y_names=dep_var)
-dls = to_nn.dataloaders(1024)
+procs_nn = [Categorify, FillMissing, Normalize] # processors ที่ใช้
+to_nn = TabularPandas(df_nn_final, # dataframe ที่ใช้ทำนาย
+                      procs_nn, # processors ที่ใช้
+                      cat_nn, # list ของ columns ประเภท categorical
+                      cont_nn, # list ของ columns ประเภท continuous
+                      splits=splits, # index ที่แบ่ง training และ validation
+                      y_names=dep_var) # dependent variable
+dls = to_nn.dataloaders(1024) # สร้าง dataloader ด้วย batch size = 1024
 
 learn = tabular_learner(dls, y_range=(8,12), layers=[500,250],
                         n_out=1, loss_func=F.mse_loss)
