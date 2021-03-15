@@ -131,7 +131,7 @@ y_pred = (linear1(X).sigmoid() >= 0.5).float()
 accuracy = (y_pred == y).float().mean()
 ```
 
-* กลับมาที่การใช้ Fast AI บ้าง เราสามารถใช้ Fast AI เทรนโมเดลได้เช่นกัน ดังต่อไปนี้
+* กลับมาที่การใช้ fastai บ้าง เราสามารถใช้ fastai เทรนโมเดลได้เช่นกัน ดังต่อไปนี้
 
 ``` py
 def batch_accuracy(xb, yb):
@@ -151,10 +151,11 @@ valid_dset = list(zip(valid_x, valid_y))
 valid_dl = DataLoader(valid_dset, batch_size=256)
 dls = DataLoaders(dl, valid_dl)
 
-# สร้าง Fast AI Learner ใส่ dataloader, model architecture (Linear), optimization function, loss, metrics
+# สร้าง fastai Learner ใส่ dataloader, model architecture (Linear), optimization function, loss, metrics
 learn = Learner(dls, nn.Linear(28*28,1), opt_func=SGD,
                 loss_func=mnist_loss, metrics=batch_accuracy)
 
 # เทรนทั้งหมด 40 epochs ด้วย learning rate = 0.1
 learn.fit(40, 0.1)
 ```
+* ตอบคำถามท้ายบทได้ที่ [aiquizzes](https://aiquizzes.com/howto)

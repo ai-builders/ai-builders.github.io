@@ -3,9 +3,9 @@ layout: post
 title: สรุป course.fast.ai (part1 v4) คาบที่ 1
 ---
 
-ในคาบแรกของ fast.ai เราได้เรียนรู้ประวัติของ Deep Learning ซึ่งมีที่มาจากการพัฒนาของโมเดล Neural Networks เราได้เรียนรู้แอพพลิเคชั่นต่างๆของ Deep Learning ตั้งแต่ Computer Vision, Natural language processing และอื่นๆ โดยสรุปเนื้อหาในคาบแรกมีดังนี้
+ในคาบแรกของ fastai เราได้เรียนรู้ประวัติของ Deep Learning ซึ่งมีที่มาจากการพัฒนาของโมเดล Neural Networks เราได้เรียนรู้แอพพลิเคชั่นต่างๆของ Deep Learning ตั้งแต่ Computer Vision, Natural language processing และอื่นๆ โดยสรุปเนื้อหาในคาบแรกมีดังนี้
 
-01. เราจะใช้หนังสือ [fastai/fastbook](https://github.com/fastai/fastbook) เป็นหนังสือเรียนหลัง โค้ดใน notebook นั้นแจกจ่ายโดยลิขสิทธิ์ open source ส่วนหนังสือ [Deep Learning for Coders with fastai and PyTorch](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/) พิมพ์โดยสำนักพิมพ์ O’Reilly เราสามารถหาซื้อเพื่อสนับสนุน fast.ai และสำนักพิมพ์ได้
+01. เราจะใช้หนังสือ [fastai/fastbook](https://github.com/fastai/fastbook) เป็นหนังสือเรียนหลัง โค้ดใน notebook นั้นแจกจ่ายโดยลิขสิทธิ์ open source ส่วนหนังสือ [Deep Learning for Coders with fastai and PyTorch](https://www.oreilly.com/library/view/deep-learning-for/9781492045519/) พิมพ์โดยสำนักพิมพ์ O’Reilly เราสามารถหาซื้อเพื่อสนับสนุน fastai และสำนักพิมพ์ได้
 
 02. การทำความเข้าใจและใช้งาน deep learning นั้น
   - ใช้ความรู้คณิตศาสตร์เพียงระดับมัธยมปลาย; พีชคณิตเชิงเส้น, partial derivatives, chain rules, ความน่าจะเป็นและสถิติพื้นฐาน
@@ -18,7 +18,7 @@ title: สรุป course.fast.ai (part1 v4) คาบที่ 1
 
 05. ช่วงปี 1980s เริ่มมีแนวคิดว่าหากเราสร้าง neural network ที่มากชั้น-ขนาดใหญ่ขึ้นเรื่อยๆ เราจะ[สามารถประมาณ function อะไรก็ได้](https://en.wikipedia.org/wiki/Universal_approximation_theorem) แต่ปัญหาคือ neural network นั้นจะใหญ่และช้าเกินไปที่จะมีประโยชน์ด้วยทรัพยากรการคำนวณที่เรามีอยู่
 
-06. ปรัชญาการเรียนของ fast.ai คือ
+06. ปรัชญาการเรียนของ fastai คือ
   - สอนให้เล่นเกมทั้งเกมก่อน ยกตัวอย่างการสอนเล่นเบสบอลโดยการให้ไปเล่นเบสบอล ไม่ใช่อธิบายว่าสนามขนาดเท่าไหร่ หรือดูวิดีโอการแข่งไปเรื่อยๆ
   - ทำให้เกมมีค่าที่จะเล่น; สอนว่าเบสบอลแพ้ชนะกันอย่างไร ชนะแล้วดีอย่างไร มีการนับแต้มอย่างจริงจัง
   - ทำในสิ่งที่ยาก; เล่นไปสักพักแล้วต้องมาปรับปรุงวิธีการเล่นให้ดีขึ้น ปรับท่าตี-วิ่ง-ขว้าง
@@ -26,7 +26,7 @@ title: สรุป course.fast.ai (part1 v4) คาบที่ 1
 07. Tech Stack ที่เราจะใช้งาน
   - Python
   - Pytorch
-  - Fast.ai; high-level API for Pytorch ใช้ได้ตั้งแต่ระดับ[ผู้เริ่มต้นไปจนถึงใช้งานจริงในอุตสาหกรรม](https://arxiv.org/abs/2002.04688)
+  - fastai; high-level API for Pytorch ใช้ได้ตั้งแต่ระดับ[ผู้เริ่มต้นไปจนถึงใช้งานจริงในอุตสาหกรรม](https://arxiv.org/abs/2002.04688)
 
 08. [Jupyter notebook 101](https://github.com/fastai/fastbook/blob/master/clean/app_jupyter.ipynb)
 
