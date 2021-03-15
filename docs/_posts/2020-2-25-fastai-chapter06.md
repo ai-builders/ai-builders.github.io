@@ -259,3 +259,5 @@ model = DotProductBias(n_users, n_movies, 50)
 learn = Learner(dls, model, loss_func=MSELossFlat())
 learn.fit_one_cycle(5, 5e-3)
 ```
+
+ตอบคำถามท้ายบทได้ที่ [aiquizzes](https://aiquizzes.com/howto)
