@@ -18,19 +18,19 @@ Central Group เพื่อพัฒนาองค์ความรู้ท
 
 ## ตารางเรียน
 
-เราใช้การเรียนการสอนจาก Fast AI ร่วมกับการทำโปรเจกต์ควบคู่กันไป โดยน้องๆสามารถติดตามการเรียนการสอนได้ดังนี้
+เราใช้การเรียนการสอนจาก fastai ร่วมกับการทำโปรเจกต์ควบคู่กันไป โดยน้องๆสามารถติดตามการเรียนการสอนได้ดังนี้
 
 | Week | Lecture                                                     | Project            |
 |------|-------------------------------------------------------------|--------------------|
 | 0    | Pre-class: ติดตั้ง Python และทดลองใช้ Google Colab              | Intro              |
-| 1    | [Fast AI Lesson 1](https://course.fast.ai/videos/?lesson=1) | Question, Dataset  |
-| 2    | [Fast AI Lesson 2](https://course.fast.ai/videos/?lesson=2) | Explore dataset    |
-| 3    | [Fast AI Lesson 3](https://course.fast.ai/videos/?lesson=3) | Working on project |
-| 4    | [Fast AI Lesson 4](https://course.fast.ai/videos/?lesson=4) | Working on project |
-| 5    | [Fast AI Lesson 5](https://course.fast.ai/videos/?lesson=5) | Working on project |
-| 6    | [Fast AI Lesson 6](https://course.fast.ai/videos/?lesson=6) | Working on project |
-| 7    | [Fast AI Lesson 7](https://course.fast.ai/videos/?lesson=7) | Working on project |
-| 8    | [Fast AI Lesson 8](https://course.fast.ai/videos/?lesson=8) | Working on project |
+| 1    | [fastai Lesson 1](https://course.fast.ai/videos/?lesson=1) | Question, Dataset  |
+| 2    | [fastai Lesson 2](https://course.fast.ai/videos/?lesson=2) | Explore dataset    |
+| 3    | [fastai Lesson 3](https://course.fast.ai/videos/?lesson=3) | Working on project |
+| 4    | [fastai Lesson 4](https://course.fast.ai/videos/?lesson=4) | Working on project |
+| 5    | [fastai Lesson 5](https://course.fast.ai/videos/?lesson=5) | Working on project |
+| 6    | [fastai Lesson 6](https://course.fast.ai/videos/?lesson=6) | Working on project |
+| 7    | [fastai Lesson 7](https://course.fast.ai/videos/?lesson=7) | Working on project |
+| 8    | [fastai Lesson 8](https://course.fast.ai/videos/?lesson=8) | Working on project |
 | 9    | No lecture                                                  | Presentation       |
 
 ## Dependecies
@@ -51,8 +51,9 @@ Central Group เพื่อพัฒนาองค์ความรู้ท
 
 ## Organizers
 
-* VISTEC
-* Central
+* [VISTEC](https://www.vistec.ac.th/)
+* [AIResearch.in.th](https://airesearch.in.th/)
+* [Central Group](https://www.central.tech/)
 
 <p align="center">
   <img style="margin: 10px 20px;" src="docs/images/vistec_logo.png"  width="200" />
