@@ -1,3 +1,9 @@
+---
+layout: post
+title: สรุป course.fast.ai (part1 v4) คาบที่ 6
+---
+
+ในคาบนี้เราจะเรียนถึงเทคนิคในการทำ transfer learning ให้มีประสิทธิภาพ เช่น learning rate finder, freezing/unfreezing, การสร้าง dataloaders และ loss ตบท้ายด้วยการทำ recommendation system ผ่านโมเดล collaborative filtering
 
 ## Learning rate finder
 - เริ่มต้นจาก learning rate ต่ำๆ และ ค่อยๆ เพิ่ม learning rate ไปเรื่อยๆ และเปรียบเทียบค่า loss ในแต่ละ mini-batch
