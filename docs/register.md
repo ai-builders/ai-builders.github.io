@@ -11,6 +11,10 @@ permalink: /register/
 
 **ช่วงเวลาการรับสมัคร** 1 เมษายน - 15 เมษายน พ.ศ. 2564 (ผู้ที่สมัครหลังการรับสมัครจะไม่ได้รับพิจารณา)
 
+- [รายละเอียดการลงทะเบียน](../registration-info/)
+- [ปรับพื้นฐานก่อนเรียน](../before-class/)
+- [ตารางเรียน](../syllabus/)
+
 <script src="https://static.airtable.com/js/embed/embed_snippet_v1.js"></script>
 <iframe
   class="airtable-embed airtable-dynamic-height"
@@ -20,4 +24,4 @@ permalink: /register/
 
 ### ติดต่อ
 
-ถ้ามีปัญหาในการลงทะเบียน โปรดติดต่อผู้ประสานงานโครงการ [Mailing List](_)
+ถ้ามีปัญหาในการลงทะเบียน โปรดติดต่อผู้ประสานงานโครงการ [mahassajuns_pro@vistec.ac.th](mailto:mahassajuns_pro@vistec.ac.th)

@@ -53,9 +53,9 @@ title: รายละเอียดการลงทะเบียน
 
 น้องๆสามารถทำโครงงานคนเดียวหรือเป็นคู่ โดยทางโครงการส่งเสริมการแลกเปลี่ยนความคิดเห็นและ pair programming กับเพื่อนๆ TA หรือ mentor ถ้าติดขัดในโครงงานสามารถติดต่อ TA และ mentor ได้ทาง
 
-* [FB Page](_)
-* [FB Group](_)
-* [Mailing List](_)
+* [AI Builders (Facebook Page)](https://www.facebook.com/aibuildersx)
+* [AI Builders (Facebook Group)](https://www.facebook.com/groups/aibuilders)
+* [mahassajuns_pro@vistec.ac.th](mailto:mahassajuns_pro@vistec.ac.th)
 
 **จำนวนที่รับและการลงทะเบียน**
 
