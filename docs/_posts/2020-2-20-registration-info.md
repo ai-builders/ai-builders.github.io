@@ -3,7 +3,7 @@ layout: post
 title: รายละเอียดการลงทะเบียน
 ---
 
-โครงการ AI Builders ก่อตั้งขึ้นจากความร่วมมือระหว่าง [VISTEC](https://www.vistec.ac.th/), [AI Research](https://airesearch.in.th/) และ [Central Group](central.tech) เพื่อพัฒนาองค์ความรู้ทางด้านวิทยาศาสตร์ข้อมูล (Data Science) และปัญญาประดิษฐ์ (Artificial Intelligence / AI) ให้กับน้องๆระดับมัธยมต้น-ปลาย ที่สนใจอยากเรียนรู้และพัฒนาโครงงานที่ใช้ทักษะในด้านนี้เพื่อประยุกต์ใช้จริงในชีวิตประจำวัน
+โครงการ AI Builders ก่อตั้งขึ้นจากความร่วมมือระหว่าง [VISTEC](https://www.vistec.ac.th/), [AI Research](https://airesearch.in.th/) และ [Central Tech](central.tech) เพื่อพัฒนาองค์ความรู้ทางด้านวิทยาศาสตร์ข้อมูล (Data Science) และปัญญาประดิษฐ์ (Artificial Intelligence / AI) ให้กับน้องๆระดับมัธยมต้น-ปลาย ที่สนใจอยากเรียนรู้และพัฒนาโครงงานที่ใช้ทักษะในด้านนี้เพื่อประยุกต์ใช้จริงในชีวิตประจำวัน
 
 **ช่วงเวลาการรับสมัคร**
 24 มีนาคม - 15 เมษายน พ.ศ. 2564
