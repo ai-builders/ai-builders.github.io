@@ -4,6 +4,7 @@ title: สรุป course.fast.ai (part1 v4) คาบที่ 2
 ---
 
 ในคาบนี้ เราจะเรียนรู้การวัดผลของโมเดล machine learning ด้วย validation set และ test set, ความสำคัญของการมี benchmark, และการทำ transfer learning 
+
 Recap notebook in [Google Colab](https://colab.research.google.com/drive/174uEkWaYjtVAK0oHMQLSCR9Jry6GFxyt?usp=sharing)
 
 01. ชนิดของโมเดล machine learning สามารถแบ่งได้ตาม output คร่าวๆ คือ
