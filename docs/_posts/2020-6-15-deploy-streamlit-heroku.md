@@ -3,6 +3,8 @@ layout: post
 title: Deploy โมเดลบน Heroku ด้วย streamlit และ fastai
 ---
 
+เมื่อสร้างโมเดลด้วย fastai (หรือ framework อื่นๆ) เสร็จเรียบร้อยแล้ว เราสามารถ deploy โมเดลของเราเป็น webapp เพื่อง่ายต่อการใช้งานด้วย `streamlit` บน `heroku` ตามขั้นตอนดังต่อไปนี้
+
 ## สิ่งที่ต้องเตรียม
 
 - ลง `streamlit`
