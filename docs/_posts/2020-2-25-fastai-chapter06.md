@@ -5,6 +5,7 @@ title: สรุป course.fast.ai (part1 v4) คาบที่ 6
 
 ในคาบนี้เราจะเรียนถึงเทคนิคในการทำ transfer learning ให้มีประสิทธิภาพ เช่น learning rate finder, freezing/unfreezing, การสร้าง dataloaders และ loss ตบท้ายด้วยการทำ recommendation system ผ่านโมเดล collaborative filtering
 ## Learning rate finder
+
 - เริ่มต้นจาก learning rate ต่ำๆ และ ค่อยๆ เพิ่ม learning rate ไปเรื่อยๆ และเปรียบเทียบค่า loss ในแต่ละ mini-batch
 - อ้างอิงจาก []() เราจะเลือก learning rate ที่ค่า loss ลดลงมาด้วยความชันมากที่สุด (ประมาณ learning rate จาก จุดที่ loss ต่ำที่สุด / 10)
 ![รูป lr vs loss]()
@@ -16,6 +17,7 @@ lr_min,lr_steep = learn.lr_find()
 ```
 
 ## Unfreezing and transfer learning
+
 - Model CNN ประกอบไปด้วยหลายๆ layer ต่อๆกัน โดยแต่ละ layer ประกอบกันขึ้นมาจาก linear function และ non-linear activation function อีกที
 - Layer ต้นๆ ของ model CNN ที่ถูก train มาจากข้อมูลรูปภาพขนาดใหญ่อย่าง ImageNet จะเรียนรู้ รูปแบบ (pattern) พื้นฐาน ของรูปภาพ ในขณะที่ layer ท้ายๆ จะเรียนรู้รูปแบบที่มีความซับซ้อน และเจาะจงกับชุดข้อมูลรูปภาพที่ model ถูก train มา มากกว่า
 - การทำ transfer learning หรือการเรียนรู้จาก model ที่เรียนรู้จากข้อมูลขนาดใหญ่มาแล้ว และมาปรับใช้ (fine tuning) กับข้อมูลชุดเล็กกว่า ใน domain ที่แตกต่างกัน จึงจำเป็นต้องใช้รูปแบบพื้นฐานที่ layer ต้นๆ ของ model CNN ถูก train มา มากกว่า รูปแบบที่เจาะจง หรือจำเพาะกับชุดข้อมูลที่ layer ท้ายๆ ของ model ได้เรียนรู้มา

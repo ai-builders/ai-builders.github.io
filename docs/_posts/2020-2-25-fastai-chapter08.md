@@ -21,7 +21,7 @@ title: สรุป course.fast.ai (part1 v4) คาบที่ 8
 - นำตัวอย่างข้อความทั้งหมดมาต่อกันเป็น string ยาวมากหนึ่งอัน 
 - สร้าง independent variable ด้วย token แรกถึง token ก่อนสุดท้าย; สร้าง dependent variable ด้วย token ที่สองจนถึง token สุดท้าย กล่าวคือจาก ['A','B','C','D'] สร้าง ['A','B','C'] เพื่อทำนาย ['B','C','D']
 
-1. Tokenization ใน fastai
+03. Tokenization ใน fastai
 
 ```py
 txt = 'The U.S. dollar $1 is $1.00.'
