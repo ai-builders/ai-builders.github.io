@@ -8,10 +8,12 @@ title: สรุป course.fast.ai (part1 v4) คาบที่ 8
 ครึ่งแรกของบนเป็นการสอนทำ text classification ด้วย fastai ตาม `10_nlp.ipynb` ครึ่งหลังเป็นการสอนสร้าง language ขึ้นมาเองจาก 0 ตาม `12_nlp_dive.ipynb`
 
 01. ULMFit ทำการ finetune 2 ครั้งคือ
+
 - finetune language model ด้วยข้อความที่อยู่ใน domain ที่ต้องการ; เพื่อปรับ parameters ให้เข้ากับ domain ก่อน
 - finetune classifier head เพื่อทำ task ที่ต้องการ
 
 02. Text processing เพื่อสร้าง input ให้ neural networks
+
 - สร้างลิสต์ของ token เรียกว่า vocab ซึ่งประกอบด้วยคำ (words), คำย่อย (subwords) เช่น พยางค์ (syllable), หรือตัวอักษร (characters) ที่เราต้องการ; token ที่ไม่อยู่ใน vocab อาจจะให้แทนด้วย unknown token
 - Tokenization; ตัดข้อความให้เป็น token
 - Numericalization; เปลี่ยน token เป็น index ใน vocab
@@ -49,18 +51,20 @@ tkn('สวัสดีครับพี่น้อง')
 ```
 
 04. Special tokens ของ fastai
-- UNK (`xxunk`); unknown token หรือ token ที่ไม่อยู่ใน vocab 
+
+- UNK (`xxunk`); unknown token หรือ token ที่ไม่อยู่ใน vocab
 - PAD (`xxpad`); padding token ไว้เติมให้ขนาด sequence ครบ
 - BOS (`xxbos`); beginning of sentence token (เพราะเราจะเอาข้อความาต่อกันยาวๆเวลาเทรน ต้องมีไว้เพื่อให้รู้ว่าตรงไหนคือเริ่มต้นประโยค)
-- EOS (`xxeos`); end of sentence token 
+- EOS (`xxeos`); end of sentence token
 - FLD (`xxfld`); field token สำหรับ input ที่มีหลาย field
-- TK_REP (`xxrep`); repetitive character token สำหรับ token ที่มีตัวอักษรซ้ำเยอะๆ เช่น `goooooo` 
+- TK_REP (`xxrep`); repetitive character token สำหรับ token ที่มีตัวอักษรซ้ำเยอะๆ เช่น `goooooo`
 - TK_WREP (`xxwrep`); repetitive word token สำหรับ token ซ้ำกันเยอะๆ เช่น `go go go go`
 - TK_UP (`xxup`); all-caps token บอกว่า token ต่อไปเป็น uppercase ทั้งหมด
 - TK_MAJ (`xxmaj`); capitalization token บอกว่า token ต่อไปถูก capitalize ตัวแรก
 
 05. ทบทวนกฎทำความสะอาดข้อความของ fastai
-- `fix_html`:: Replaces special HTML characters with a readable version 
+
+- `fix_html`:: Replaces special HTML characters with a readable version
 - `replace_rep`:: Replaces any character repeated three times or more with a special token for repetition (`xxrep`), the number of times it's repeated, then the character
 - `replace_wrep`:: Replaces any word repeated three times or more with a special token for word repetition (`xxwrep`), the number of times it's repeated, then the word
 - `spec_add_spaces`:: Adds spaces around / and #
@@ -101,6 +105,7 @@ nums = num(toks)[:20]; nums #numericalized; เปลี่ยนจาก token
 ```
 
 10. การสร้าง mini-batch ของข้อมูลชนิดข้อความใน fastai เพื่อเทรน language model ทำโดยการ
+
 - สลับตัวอย่างทั้งหมด เช่นเดียวกับการสลับรูปภาพ
 - ต่อตัวอย่างทั้งหมดเป็น text stream ใหญ่หนึ่งอัน
 - หั่น text stream นั้นตาม batch size * sequence length

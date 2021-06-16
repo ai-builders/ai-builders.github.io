@@ -4,8 +4,8 @@ title: สรุป course.fast.ai (part1 v4) คาบที่ 6
 ---
 
 ในคาบนี้เราจะเรียนถึงเทคนิคในการทำ transfer learning ให้มีประสิทธิภาพ เช่น learning rate finder, freezing/unfreezing, การสร้าง dataloaders และ loss ตบท้ายด้วยการทำ recommendation system ผ่านโมเดล collaborative filtering
-
 ## Learning rate finder
+
 - เริ่มต้นจาก learning rate ต่ำๆ และ ค่อยๆ เพิ่ม learning rate ไปเรื่อยๆ และเปรียบเทียบค่า loss ในแต่ละ mini-batch
 - อ้างอิงจาก []() เราจะเลือก learning rate ที่ค่า loss ลดลงมาด้วยความชันมากที่สุด (ประมาณ learning rate จาก จุดที่ loss ต่ำที่สุด / 10)
 ![รูป lr vs loss]()
@@ -17,37 +17,48 @@ lr_min,lr_steep = learn.lr_find()
 ```
 
 ## Unfreezing and transfer learning
+
 - Model CNN ประกอบไปด้วยหลายๆ layer ต่อๆกัน โดยแต่ละ layer ประกอบกันขึ้นมาจาก linear function และ non-linear activation function อีกที
 - Layer ต้นๆ ของ model CNN ที่ถูก train มาจากข้อมูลรูปภาพขนาดใหญ่อย่าง ImageNet จะเรียนรู้ รูปแบบ (pattern) พื้นฐาน ของรูปภาพ ในขณะที่ layer ท้ายๆ จะเรียนรู้รูปแบบที่มีความซับซ้อน และเจาะจงกับชุดข้อมูลรูปภาพที่ model ถูก train มา มากกว่า
 - การทำ transfer learning หรือการเรียนรู้จาก model ที่เรียนรู้จากข้อมูลขนาดใหญ่มาแล้ว และมาปรับใช้ (fine tuning) กับข้อมูลชุดเล็กกว่า ใน domain ที่แตกต่างกัน จึงจำเป็นต้องใช้รูปแบบพื้นฐานที่ layer ต้นๆ ของ model CNN ถูก train มา มากกว่า รูปแบบที่เจาะจง หรือจำเพาะกับชุดข้อมูลที่ layer ท้ายๆ ของ model ได้เรียนรู้มา
 - ขั้นตอนการทำ transfer learning ด้วยการ fine tuning model CNN ที่เรียนรู้จากข้อมูลขนาดใหญ่มาแล้ว
-    1. train model CNN เฉพาะ layer ของ classifier และ freeze weight ของ layer ก่อนหน้าไว้ทั้งหมด (ไม่ทำการ update ค่า weight) ด้วยจำนวน epoch น้อยๆ (1-3 epoch) เพื่อปรับจูนค่า weight ใน layer ของ classifier กับข้อมูลชุดใหม่ก่อน โดย default object Learner ที่ถูกสร้างขึ้นมาจาก architecture ของ model CNN ที่กำหนด จะ freeze weight ของ layer ส่วนที่เป็น deep convolutional network ไว้อยู่แล้ว
-    ```
-    learn = cnn_learner(dls, resnet34, metrics=error_rate)
-    learn.fit_one_cycle(3, 3e-3)
-    ```
-    2. unfreeze weight ในส่วนของ deep convolutional network (layer ก่อนหน้า classifier) เพื่อทำ fine tuning ในส่วนนี้
-    ```
-    learn.unfreeze()
-    ```
-    3. หา learning rate ที่เหมาะสมสำหรับ fine tuning deep convolutional network ใหม่ เนื่องจาก weight ของ model CNN ถูกปรับมาจากการเรียนรู้ในขั้นตอนที่ 1 แล้ว ทำให้ learning rate ที่เหมาะสมในขั้นตอนนี้จะไม่เหมือนขั้นตอนที่ 1
-    4. ทำการ fine tuning ในขั้นตอนสุดท้าย จาก learning rate ที่ได้จากขั้นตอนที่ 3 โดยในขั้นตอนนี้ fastai จะใช้เทคนิคที่เรียกว่า discriminative learning rate คือ กำหนด learning rate ของ deep convolutional network แตกต่างกัน โดยกำหนดให้ learning rate ใน layer ต้นๆ น้อยกว่า learning rate ใน layer ท้ายๆ เพื่อสอดคล้องกับรูปแบบพื้นฐาน และ รูปแบบเจาะจง ที่ layer ต้นๆ และ layer ท้ายๆ ได้เรียนรู้มา ตามลำดับ
 
-    นอกเหนือจากการใช้เทคนิค disscriminative learning rate โดยใช้ function `slice` ใน argument `lr_max` `lr_max=slice(1e-6, 1e-4)` (ใช้ learning rate 1e-6 กับ layer ต้นๆ และเพิ่มเป็น 1e-4 กับ layer ท้ายๆ) fastai ยังใช้เทคนิคการ train ด้วย one cycle learning rate หรือ กำหนดให้ learning rate ในแต่ละ iteration ไม่เท่ากัน โดยเริ่มต้นจาก learning rate ที่ค่อยๆ เพิ่มสู​งขึ้นถึง แล้วจึงค่อยๆ ลดลงต่ำกว่า learning rate เริ่มต้นในตอนแรก เพื่อเป็นการ warm up ในช่วงแรก แล้วจึงค่อยๆ เข้าสู่จุดที่ weigt ของ model เริ่มเสถียรด้วยการลด learning rate ลง
-    ```
-    learn.fit_one_cycle(12, lr_max=slice(1e-6,1e-4))
-    ```
+1. train model CNN เฉพาะ layer ของ classifier และ freeze weight ของ layer ก่อนหน้าไว้ทั้งหมด (ไม่ทำการ update ค่า weight) ด้วยจำนวน epoch น้อยๆ (1-3 epoch) เพื่อปรับจูนค่า weight ใน layer ของ classifier กับข้อมูลชุดใหม่ก่อน โดย default object Learner ที่ถูกสร้างขึ้นมาจาก architecture ของ model CNN ที่กำหนด จะ freeze weight ของ layer ส่วนที่เป็น deep convolutional network ไว้อยู่แล้ว
+
+``` python
+learn = cnn_learner(dls, resnet34, metrics=error_rate)
+learn.fit_one_cycle(3, 3e-3)
+```
+
+2. unfreeze weight ในส่วนของ deep convolutional network (layer ก่อนหน้า classifier) เพื่อทำ fine tuning ในส่วนนี้
+
+``` python
+learn.unfreeze()
+```
+
+3. หา learning rate ที่เหมาะสมสำหรับ fine tuning deep convolutional network ใหม่ เนื่องจาก weight ของ model CNN ถูกปรับมาจากการเรียนรู้ในขั้นตอนที่ 1 แล้ว ทำให้ learning rate ที่เหมาะสมในขั้นตอนนี้จะไม่เหมือนขั้นตอนที่ 1
+
+4. ทำการ fine tuning ในขั้นตอนสุดท้าย จาก learning rate ที่ได้จากขั้นตอนที่ 3 โดยในขั้นตอนนี้ fastai จะใช้เทคนิคที่เรียกว่า discriminative learning rate คือ กำหนด learning rate ของ deep convolutional network แตกต่างกัน โดยกำหนดให้ learning rate ใน layer ต้นๆ น้อยกว่า learning rate ใน layer ท้ายๆ เพื่อสอดคล้องกับรูปแบบพื้นฐาน และ รูปแบบเจาะจง ที่ layer ต้นๆ และ layer ท้ายๆ ได้เรียนรู้มา ตามลำดับ
+
+นอกเหนือจากการใช้เทคนิค disscriminative learning rate โดยใช้ function `slice` ใน argument `lr_max` `lr_max=slice(1e-6, 1e-4)` (ใช้ learning rate 1e-6 กับ layer ต้นๆ และเพิ่มเป็น 1e-4 กับ layer ท้ายๆ) fastai ยังใช้เทคนิคการ train ด้วย one cycle learning rate หรือ กำหนดให้ learning rate ในแต่ละ iteration ไม่เท่ากัน โดยเริ่มต้นจาก learning rate ที่ค่อยๆ เพิ่มสู​งขึ้นถึง แล้วจึงค่อยๆ ลดลงต่ำกว่า learning rate เริ่มต้นในตอนแรก เพื่อเป็นการ warm up ในช่วงแรก แล้วจึงค่อยๆ เข้าสู่จุดที่ weigt ของ model เริ่มเสถียรด้วยการลด learning rate ลง
+
+``` python
+learn.fit_one_cycle(12, lr_max=slice(1e-6,1e-4))
+```
 
 ## Deeper architecture
+
 - เราสามารถเพิ่ม capacity/ performance ของโมเดล ด้วยการใช้ model architecture ที่มีขนาด layer ที่ลึกขึ้น เช่น model ResNet 18 -> 34 -> 50 -> 101 -> 152 แต่ในขณะเดียวกัน model ที่มีขนาดใหญ่ขึ้นก็จะมาพร้อมกับ memory footprint ที่มากขึ้น และ computation cost/ time ที่สูงขึ้น
 
 # Multi-label classification
+
 การทำ multi-label classification คือ การทำนายที่มี label กำกับข้อมูลได้มากกว่า 1 class เช่น รูปภาพที่ประกอบไปด้วยวัตถุหลายๆ อย่างในภาพเดียวกัน เช่น ภาพคนขี่จักรยาน
 - เราจะใช้ข้อมูลชุด `PASCAL` สำหรับศึกษาการทำ multi-label classification
 - ตัวอย่างข้อมูลสำหรับทำ multi-label classification
 ![รูป df ตัวอย่าง]()
 
 ## DataBlock
+
 ในขั้นตอนนี้ เราจะเปลี่ยนข้อมูลที่อยู่ในรูปแบบของ pandas `DataFrame` ให้อยู่ในรูปแบบของ class `DataLoaders` ของ fastai เพื่อ train model
 
 เนื่องจาก fastai ถูกสร้างขึ้นมาจาก library PyTorch ดังนั้น เราจะมาทำความเข้าใจการเตรียมข้อมูลสำหรับ train model ด้วย library PyTorch ก่อน ซึ่งจะใช้ 2 class หลักๆ ต่อไปนี้
