@@ -15,6 +15,8 @@
 (Artificial Intelligence / AI) ให้กับน้องๆระดับมัธยมต้น-ปลาย
 ที่สนใจอยากเรียนรู้และพัฒนาโครงงานที่ใช้ทักษะในด้านนี้เพื่อประยุกต์ใช้จริงในชีวิตประจำวัน
 
+Facebook: [AI Builders](https://www.facebook.com/aibuildersx)
+
 ## ตารางเรียน
 
 เราใช้การเรียนการสอนจาก fastai ร่วมกับการทำโปรเจกต์ควบคู่กันไป โดยน้องๆสามารถติดตามการเรียนการสอนได้ดังนี้
@@ -32,7 +34,7 @@
 | 8    | [fastai Lesson 8](https://course.fast.ai/videos/?lesson=8) | Working on project |
 | 9    | No lecture                                                  | Presentation       |
 
-## Dependecies
+## Dependencies
 
 * [Pytorch](https://pytorch.org/)
 * [fastai](https://github.com/fastai/fastai)
