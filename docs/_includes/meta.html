@@ -3,16 +3,40 @@
     <meta http-equiv='X-UA-Compatible' content='IE=edge'>
     <meta name='viewport' content='width=device-width, initial-scale=1.0, maximum-scale=1.0'>
 
+    <!-- Facebook image -->
+    <meta property="og:image" content="{{ site.baseurl }}/images/fb-image.png">
+
     {% if page.excerpt %}
     <meta name="description" content="{{ page.excerpt| strip_html }}" />
     <meta property="og:description" content="{{ page.excerpt| strip_html }}" />
+    <meta name="twitter:description" content="{{ page.excerpt| strip_html }}" />
     {% else %}
     <meta name="description" content="{{ site.description }}">
     <meta property="og:description" content="{{ site.description }}" />
+    <meta name="twitter:description" content="{{ site.description }}" />
+
     {% endif %}
     <meta name="author" content="{{ site.name }}" />
 
     {% if page.title %}
     <meta property="og:title" content="{{ page.title }}" />
     <meta property="twitter:title" content="{{ page.title }}" />
+    {% else %}
+    <meta property="og:title" content="{{ site.title }}" />
+    <meta property="twitter:title" content="{{ site.title }}" />
     {% endif %}
+
+    <!-- Twitter Cards -->
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:image" content="{{ site.url }}/ai-builders/images/fb-image.png">
+
+    <!-- Open Graph -->
+    <meta property="og:locale" content="en_US">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{ site.baseurl }}">
+    <meta property="og:site_name" content="{{ site.title }}">
+
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{{ site.baseurl }}/images/favicon.ico">
+    <link rel="shortcut icon" href="{{ site.baseurl }}/images/favicon-32x32.png">
+    <link rel="apple-touch-icon-precomposed" sizes="180x180" href="{{ site.baseurl }}/images/apple-touch-icon.png">
