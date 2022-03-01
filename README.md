@@ -59,6 +59,5 @@ Facebook: [AI Builders](https://www.facebook.com/aibuildersx)
 <p align="center">
   <img style="margin: 10px 20px;" src="docs/images/vistec_logo.png"  width="200" />
   <img style="margin: 10px 20px;" src="docs/images/airesearch.png"  width="200" />
-  <img style="margin: 10px 20px;" src="docs/images/central_logo.png"  width="100" />
   <img style="margin: 10px 20px;" src="docs/images/central_tech_logo.png"  width="150" />
 </p>
