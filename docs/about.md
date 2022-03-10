@@ -26,13 +26,13 @@ permalink: /about/
 
 <p class="sponsor-imgs">
   <div class="row">
-    <img src="{{ site.baseurl }}/images/vistec_logo.png"  width="100" />
-    <img src="{{ site.baseurl }}/images/visai_logo.png"  width="100" />
-    <img src="{{ site.baseurl }}/images/central_tech_logo.png"  width="100" />
-    <img src="{{ site.baseurl }}/images/krungsri_nimble_logo.png"  width="100" />
+    <img src="{{ site.baseurl }}/images/vistec_logo.png"  width="20%" />
+    <img src="{{ site.baseurl }}/images/visai_logo.png"  width="20%" />
+    <img src="{{ site.baseurl }}/images/central_tech_logo.png"  width="20%" />
+    <img src="{{ site.baseurl }}/images/krungsri_nimble_logo.png"  width="20%" />
   </div>
   <div class="row">
-    <img src="{{ site.baseurl }}/images/aia_logo.png"  width="50" />
-    <img src="{{ site.baseurl }}/images/dell_tech_logo.png"  width="50" />
+    <img src="{{ site.baseurl }}/images/aia_logo.png"  width="70" />
+    <img src="{{ site.baseurl }}/images/dell_tech_logo.png"  width="70" />
   </div>
 </p>
