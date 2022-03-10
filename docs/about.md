@@ -27,9 +27,12 @@ permalink: /about/
 <p class="sponsor-imgs">
   <div class="row">
     <img src="{{ site.baseurl }}/images/vistec_logo.png"  width="200" />
-    <img src="{{ site.baseurl }}/images/airesearch.png"  width="200" />
+    <img src="{{ site.baseurl }}/images/visai_logo.png"  width="200" />
+    <img src="{{ site.baseurl }}/images/central_tech_logo.png"  width="200" />
+    <img src="{{ site.baseurl }}/images/krungsri_nimble_logo.png"  width="200" />
   </div>
   <div class="row">
-    <img src="{{ site.baseurl }}/images/central_tech_logo.png"  width="150" />
+    <img src="{{ site.baseurl }}/images/aia_logo.png"  width="150" />
+    <img src="{{ site.baseurl }}/images/dell_tech_logo.png"  width="150" />
   </div>
 </p>
