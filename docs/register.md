@@ -24,4 +24,4 @@ permalink: /register/
 
 ### ติดต่อ
 
-ถ้ามีปัญหาในการลงทะเบียน โปรดติดต่อผู้ประสานงานโครงการ [mahassajuns_pro@vistec.ac.th](mailto:mahassajuns_pro@vistec.ac.th)
+ถ้ามีปัญหาในการลงทะเบียน โปรดติดต่อผู้ประสานงานโครงการ [teetawatl_pro@vistec.ac.th](mailto:teetawatl_pro@vistec.ac.th)
