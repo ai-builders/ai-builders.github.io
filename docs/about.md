@@ -20,7 +20,7 @@ permalink: /about/
     text-align: center;
   }
   .row > img {
-    margin: 0px 5px;
+    margin: 0px 10px;
   }
 </style>
 
