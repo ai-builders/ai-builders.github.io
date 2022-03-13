@@ -1,15 +1,15 @@
 ---
 layout: post
-title: รายละเอียดการลงทะเบียนปี 2564
+title: รายละเอียดการลงทะเบียนปี 2021
 ---
 
 โครงการ AI Builders ก่อตั้งขึ้นจากความร่วมมือระหว่าง [VISTEC](https://www.vistec.ac.th/), [AI Research](https://airesearch.in.th/) และ [Central Tech](central.tech) เพื่อพัฒนาองค์ความรู้ทางด้านวิทยาศาสตร์ข้อมูล (Data Science) และปัญญาประดิษฐ์ (Artificial Intelligence / AI) ให้กับน้องๆระดับมัธยมต้น-ปลาย ที่สนใจอยากเรียนรู้และพัฒนาโครงงานที่ใช้ทักษะในด้านนี้เพื่อประยุกต์ใช้จริงในชีวิตประจำวัน
 
 **ช่วงเวลาการรับสมัคร**
-24 มีนาคม - 15 เมษายน พ.ศ. 2564
+24 มีนาคม - 15 เมษายน 2021
 
 **ช่วงเวลาของโครงการ**
-21 เมษายน - 16 มิถุนายน พ.ศ. 2564
+21 เมษายน - 16 มิถุนายน 2021
 
 **ระยะเวลาของโครงการ**
 9 สัปดาห์ สัปดาห์ละ 4 - 8 ชั่วโมง (เรียนตาม [fastai](https://course.fast.ai/) และทำโครงงาน)
@@ -54,7 +54,6 @@ title: รายละเอียดการลงทะเบียนปี 
 น้องๆสามารถทำโครงงานคนเดียวหรือเป็นคู่ โดยทางโครงการส่งเสริมการแลกเปลี่ยนความคิดเห็นและ pair programming กับเพื่อนๆ TA หรือ mentor ถ้าติดขัดในโครงงานสามารถติดต่อ TA และ mentor ได้ทาง
 
 * [AI Builders (Facebook Page)](https://www.facebook.com/aibuildersx)
-* [AI Builders (Facebook Group)](https://www.facebook.com/groups/aibuilders)
 * [mahassajuns_pro@vistec.ac.th](mailto:mahassajuns_pro@vistec.ac.th)
 
 **จำนวนที่รับและการลงทะเบียน**
