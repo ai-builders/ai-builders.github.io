@@ -1,6 +1,6 @@
 ---
 layout: post
-title: คาบที่ 0 - Orientation and Intro to Essential Tools
+title: ปฐมนิเทศน์ 2021 - Orientation and Intro to Essential Tools
 ---
 
 เตรียมความพร้อมก่อนเข้าสู่โครงการ AI Builders
