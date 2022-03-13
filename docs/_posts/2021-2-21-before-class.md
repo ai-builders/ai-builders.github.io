@@ -46,7 +46,7 @@ Google Colab
 
 ## เนื้อหาที่จำเป็นสำหรับ Take-home Extrance Exam
 เราจะมี Pre-course Workhop (3 ชั่วโมง) 2 ครั้งเพื่อปรับพื้นฐานสำหรับน้องๆที่ไม่เคยเรียน Python, linear algebra/numpy หรือ pandas มาก่อน เราหวังให้น้องๆใช้ความรู้ที่เรียนจาก workshop และ notebook เหล่านี้เพื่อทำ Take-home Extrance Exam ส่งมากับใบสมัคร
-* [Introduction to Python](https://github.com/ai-builders/ai-builders.github.io/blob/main/notebooks/ai_builder_intro_python.ipynb) | [เปิดใน Colab](https://colab.research.google.com/github/ai-builders/ai-builders.github.io/blob/main/notebooks/ai_builder_intro_python.ipynb) | [วิดีโอ](https://www.facebook.com/watch/live/?ref=watch_permalink&v=193110048955012)
+* [Introduction to Python](https://github.com/ai-builders/ai-builders.github.io/blob/main/notebooks/ai_builder_intro_python.ipynb) | [เปิดใน Colab](https://colab.research.google.com/github/ai-builders/ai-builders.github.io/blob/main/notebooks/ai_builder_intro_python.ipynb) | [วิดีโอ](https://www.facebook.com/watch/live/?ref=watch_permalink&v=193110048955012) 
 * [
 Introduction to Numpy and Basic Linear Algebra Operations](https://github.com/ai-builders/ai-builders.github.io/blob/main/notebooks/ai_builder_numpy.ipynb) | [เปิดใน Colab](https://colab.research.google.com/github/ai-builders/ai-builders.github.io/blob/main/notebooks/ai_builder_numpy.ipynb) | [วิดีโอ](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1254101408321503)
 * [Introduction to Pandas](https://github.com/ai-builders/ai-builders.github.io/blob/main/notebooks/ai_builder_pandas.ipynb) | [เปิดใน Colab](https://colab.research.google.com/github/ai-builders/ai-builders.github.io/blob/main/notebooks/ai_builder_pandas.ipynb) | [วิดีโอ](https://www.facebook.com/watch/live/?ref=watch_permalink&v=1254101408321503)
