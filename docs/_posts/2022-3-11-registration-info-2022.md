@@ -3,7 +3,7 @@ layout: post
 title: รายละเอียดการลงทะเบียนปี 2022
 ---
 
-โครงการ AI Builders 2022 ก่อตั้งขึ้นจากความร่วมมือระหว่าง [VISTEC](https://www.vistec.ac.th/), [VISAI](https://visai.ai/), [Central Digital](https://central.tech),  [Krungsri Nimble](https://www.nimblebykrungsri.com/), [AWS](https://aws.amazon.com/), [AIA](https://www.aia.co.th/th/index.html), และ [DELL](https://www.dell.com/en-th) เพื่อพัฒนาองค์ความรู้ทางด้านวิทยาศาสตร์ข้อมูล (Data Science) และปัญญาประดิษฐ์ (Artificial Intelligence / AI) ให้กับน้องๆระดับมัธยมต้น-ปลาย ที่สนใจอยากเรียนรู้และพัฒนาโครงงานที่ใช้ทักษะในด้านนี้เพื่อประยุกต์ใช้จริงในชีวิตประจำวัน
+โครงการ AI Builders 2022 ก่อตั้งขึ้นจากความร่วมมือระหว่าง [VISTEC](https://www.vistec.ac.th/), [VISAI](https://visai.ai/), [Central Digital](https://central.tech),  [Krungsri Nimble](https://www.nimblebykrungsri.com/), [AWS](https://aws.amazon.com/), [AIA](https://www.aia.co.th/th/index.html), [DELL](https://www.dell.com/en-th), และ [Kasikorn Bank](https://www.kasikornbank.com/) เพื่อพัฒนาองค์ความรู้ทางด้านวิทยาศาสตร์ข้อมูล (Data Science) และปัญญาประดิษฐ์ (Artificial Intelligence / AI) ให้กับน้องๆระดับมัธยมต้น-ปลาย ที่สนใจอยากเรียนรู้และพัฒนาโครงงานที่ใช้ทักษะในด้านนี้เพื่อประยุกต์ใช้จริงในชีวิตประจำวัน
 
 **ช่วงเวลาการรับสมัคร**
 14 มีนาคม - 4 เมษายน 2022
