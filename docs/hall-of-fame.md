@@ -22,7 +22,11 @@ Charin Polpanumas, Titipat Achakulvisut, Peerat Limkonchotiwat, Can Udomcharoenc
 
 เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
 
-Apiwat Jaroonpol, Jullawat Sinsiri, Kampanart Chaimooltan, Krichkorn Oparad, Lalita Deelert, Noppawat Tantisiriwat, Phiradet Bangcharoensap, Sisira Sriyapan, Tanakrit Saiphan, Thanapat Chotipun, Varisa Techapisut, Wasurat Soontronchai
+Apiwat Jaroonpol, Jullawat Sinsiri, Kampanart Chaimooltan, Krichkorn Oparad, Lalita Deelert, Noppawat Tantisiriwat, Phiradet Bangcharoensap, Punnawish thuwajit, Sisira Sriyapan, Tanakrit Saiphan, Thanapat Chotipun, Varisa Techapisut, Wasurat Soontronchai
+
+## Program Facilitators
+
+Teetawat Lapsongpon, Thanaree Srichainont, Makkawan Burana-amuay
 
 ## Sponsors
 
