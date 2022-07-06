@@ -12,7 +12,9 @@ Teaching Assistant ทุกคนของ AI Builders 2022 เป็นอา�
 
 ## Graduated Students
 
-To be decided.
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Chinavat Nachaithong, Chotanansub Sophaken, Chotiwat Tangsathaphorn, Hirunkul Phimsiri, Idhibhat Pankam, Jessada Pranee, Jira Kuljirapong, Jittaraboon Sapsinthaweelap, Kanpat Vesessook, Kantapong Wongpanich, Khanut Boonjong, Kittipong Tapyou, Kornkamol Saengsawang, Krongpop Munkong, Manissara Saejun, Mawin Srichat, Nadol Pipattikanan, Naphat Saereerak, Natthawadee Leephatarakit, Nattkorn Kachainthon, Nayos Suwatano, Nithiwat Sirirattanachaikul, Nitisarath Phuttiphaphong, Nonthapan Wongkanha, Noppawit Tantisiriwat, Pannathorn Krudthong, Panuawat Wongpattanawut, Parinthapat Pengpun, Peeranat Mekwisit, Phakawut Thummawuttikul, Phakkhaphon Artburai, Phawat Leechasan, Pollakrit Satasin, Praewa Choobanna, Purich Siritip, Putthakhun Boonchai, Ratchanon Mookkaew, Supachok Butdeekhan, Tanaanan Chalearmpan, Tanapon Thongchamnong, Tee Hemjinda, Thepbordin Jaiinsom, Wachirawit Chaiyamat, Wittawat Kitipatthavorn, Worakan Lasudee
 
 ## Mentors
 
@@ -22,7 +24,7 @@ Charin Polpanumas, Titipat Achakulvisut, Peerat Limkonchotiwat, Can Udomcharoenc
 
 เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
 
-Apiwat Jaroonpol, Jullawat Sinsiri, Kampanart Chaimooltan, Krichkorn Oparad, Lalita Deelert, Noppawat Tantisiriwat, Phiradet Bangcharoensap, Punnawish thuwajit, Sisira Sriyapan, Tanakrit Saiphan, Thanapat Chotipun, Varisa Techapisut, Wasurat Soontronchai
+Apiwat Jaroonpol, Kampanart Chaimooltan, Krichkorn Oparad, Lalita Deelert, Noppawat Tantisiriwat, Phiradet Bangcharoensap, Punnawish Thuwajit, Rajasurang Wongkrasaemongkol, Sisira Sriyapan, Tanakrit Saiphan, Thanapat Chotipun, Varisa Techapisut, Wasurat Soontronchai
 
 ## Program Facilitators
 
@@ -36,7 +38,7 @@ VISAI, Krungsri Nimble, AWS
 
 ### Platninum
 
-AIA, DELL
+AIA, DELL, Central Digital
 
 ### Gold
 
