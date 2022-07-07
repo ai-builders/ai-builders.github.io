@@ -24,7 +24,7 @@ Charin Polpanumas, Titipat Achakulvisut, Peerat Limkonchotiwat, Can Udomcharoenc
 
 เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
 
-Apiwat Jaroonpol, Kampanart Chaimooltan, Krichkorn Oparad, Lalita Deelert, Noppawat Tantisiriwat, Phiradet Bangcharoensap, Punnawish Thuwajit, Rajasurang Wongkrasaemongkol, Sisira Sriyapan, Tanakrit Saiphan, Thanapat Chotipun, Varisa Techapisut, Wasurat Soontronchai
+Apiwat Jaroonpol, Kampanart Chaimooltan, Krichkorn Oparad, Lalita Deelert, Noppawat Tantisiriwat, Phiradet Bangcharoensap, Punnawish Thuwajit, Rajasurang Wongkrasaemongkol, Sisira Sriyapan, Tanakrit Saiphan, Thanapat Chotipun
 
 ## Program Facilitators
 
