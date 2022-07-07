@@ -28,7 +28,7 @@ Apiwat Jaroonpol, Kampanart Chaimooltan, Krichkorn Oparad, Lalita Deelert, Noppa
 
 ## Program Facilitators
 
-Teetawat Lapsongpon, Thanaree Srichainont, Makkawan Burana-amuay
+Teetawat Lapsongpon, Thanaree Srichainont, Makkawan Burana-amuay, Kridakan Phinidchai, Onarin Lapvetee, Pajaree Munesuwan
 
 ## Sponsors
 
