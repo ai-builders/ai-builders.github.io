@@ -18,7 +18,7 @@ Chinavat Nachaithong, Chotanansub Sophaken, Chotiwat Tangsathaphorn, Hirunkul Ph
 
 ## Mentors
 
-Charin Polpanumas, Titipat Achakulvisut, Peerat Limkonchotiwat, Can Udomcharoenchaikit, Chompakorn Chaksangchaichot, Jatuporn Toy Leksu, Nakorn Kumchaiseemak, Nattapol Trijakwanich, Nut Chukamphaeng, Oat Jayakorn Vongkulbhisal, Pakin Siwatammarat, Pakin Siwatammarat, Panthon Imemkamon, Panuthep Tasawong, Panyawut Sri-iesaranusorn, Phattarapong Sawangjai, Piyalitt Ittichaiwong, Rattanaphon Chaisaen, Rujikorn Charakorn, Supalerk Pisitsupakarn, Tanut Choksatchawathi, Wannaphong Phatthiyaphaibun, Weerayut Buapet, Witchapong Daroontham
+Charin Polpanumas, Titipat Achakulvisut, Peerat Limkonchotiwat, Can Udomcharoenchaikit, Chompakorn Chaksangchaichot, Jatuporn Toy Leksu, Nakorn Kumchaiseemak, Nattapol Trijakwanich, Nut Chukamphaeng, Oat Jayakorn Vongkulbhisal, Pakin Siwatammarat, Panthon Imemkamon, Panuthep Tasawong, Panyawut Sri-iesaranusorn, Pattaramanee Arsomngern, Phattarapong Sawangjai, Piyalitt Ittichaiwong, Rattanaphon Chaisaen, Rujikorn Charakorn, Supalerk Pisitsupakarn, Tanut Choksatchawathi, Wannaphong Phatthiyaphaibun, Weerayut Buapet, Witchapong Daroontham
 
 ## Teaching Assistants
 
