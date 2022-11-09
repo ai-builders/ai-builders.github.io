@@ -16,6 +16,12 @@ Teaching Assistant ทุกคนของ AI Builders 2022 เป็นอา�
 
 Chinavat Nachaithong, Chotanansub Sophaken, Chotiwat Tangsathaphorn, Hirunkul Phimsiri, Idhibhat Pankam, Jessada Pranee, Jira Kuljirapong, Jittaraboon Sapsinthaweelap, Kanpat Vesessook, Kantapong Wongpanich, Khanut Boonjong, Kittipong Tapyou, Kornkamol Saengsawang, Krongpop Munkong, Manissara Saejun, Mawin Srichat, Nadol Pipattikanan, Naphat Saereerak, Natthawadee Leephatarakit, Nattkorn Kachainthon, Nayos Suwatano, Nithiwat Sirirattanachaikul, Nitisarath Phuttiphaphong, Nonthapan Wongkanha, Noppawit Tantisiriwat, Pannathorn Krudthong, Panuawat Wongpattanawut, Parinthapat Pengpun, Peeranat Mekwisit, Phakawut Thummawuttikul, Phakkhaphon Artburai, Phawat Leechasan, Pollakrit Satasin, Praewa Choobanna, Purich Siritip, Putthakhun Boonchai, Ratchanon Mookkaew, Supachok Butdeekhan, Tanaanan Chalearmpan, Tanapon Thongchamnong, Tee Hemjinda, Thepbordin Jaiinsom, Wachirawit Chaiyamat, Wittawat Kitipatthavorn, Worakan Lasudee
 
+## รางวัลโครงงานปัญญาประดิษฐ์ดีเด่นจากคณะกรรมการ
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Hirunkul Phimsiri, Parinthapat Pengpun, Purich Siritip
+
 ## Mentors
 
 Charin Polpanumas, Titipat Achakulvisut, Peerat Limkonchotiwat, Can Udomcharoenchaikit, Chompakorn Chaksangchaichot, Jatuporn Toy Leksu, Nakorn Kumchaiseemak, Nattapol Trijakwanich, Nut Chukamphaeng, Oat Jayakorn Vongkulbhisal, Pakin Siwatammarat, Panthon Imemkamon, Panuthep Tasawong, Panyawut Sri-iesaranusorn, Pattaramanee Arsomngern, Phattarapong Sawangjai, Piyalitt Ittichaiwong, Rattanaphon Chaisaen, Rujikorn Charakorn, Supalerk Pisitsupakarn, Tanut Choksatchawathi, Wannaphong Phatthiyaphaibun, Weerayut Buapet, Witchapong Daroontham
@@ -53,6 +59,12 @@ Kasikorn Bank
 เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
 
 Akira Sakashita Worasawate, Dechawat Chawangmahapeeti, Jullawat Sinsiri, Kampanart Chaimooltan, Lalita Deelert, Noppawat Tantisiriwat, Phacharaphol Somboontham, Pittinan Harnsinghkun, Pongsakon Kaewjaidee, Prad Rattanakijsoonthorn, Rajasurang Wongkrasaemongkol, Rapepong Pitijaroonpong, Raya Sakashita Worasawate, Sippapas Charoenkul, Sooknapat Chongsawadvoarkul, Suphapol Wongsawat, Tanakrit Saiphan, Tawanrat Piriyalertsak, Thanapat Chotipun, Varisa Techapisut
+
+## รางวัลโครงงานปัญญาประดิษฐ์ดีเด่นจากคณะกรรมการ
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Lalita Deelert, Phacharaphol Somboontham, Prad Rattanakijsoonthorn, Thanapat Chotipun
 
 ## Mentors
 
