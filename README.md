@@ -17,6 +17,21 @@ Facebook Page: [AI Builders](https://www.facebook.com/aibuildersx)
 
 ## Our Sponsors
 
+### AI Builders 2023
+
+<p class="sponsor-imgs">
+  <div class="row">
+      <img src="docs/images/vistec_logo.png"  height="50" />
+      <img src="docs/images/visai_logo.png"  height="50" />
+      <img src="docs/images/central_digital_logo.png"  height="50" />
+      <img src="docs/images/dell_tech_logo.png"  height="50" />
+      <img src="docs/images/pmub_logo.png"  height="50" />
+      <img src="docs/images/osk_ai.png"  height="50" />
+  </div>
+</p>
+
+### AI Builders 2022
+
 <p class="sponsor-imgs">
   <div class="row">
     <img src="docs/images/vistec_logo.png"  height="50" />
@@ -34,8 +49,8 @@ Facebook Page: [AI Builders](https://www.facebook.com/aibuildersx)
 
 ## Dependencies
 
-* [Pytorch](https://pytorch.org/)
-* [fastai](https://github.com/fastai/fastai)
+- [Pytorch](https://pytorch.org/)
+- [fastai](https://github.com/fastai/fastai)
 
 ## เว็บไซต์ (Website)
 
@@ -43,7 +58,7 @@ Facebook Page: [AI Builders](https://www.facebook.com/aibuildersx)
 น้องๆหรือผู้ที่อยากเข้ามาแก้ไขเนื้อหาสามารถ fork repository นี้และส่ง [pull request](https://github.com/vistec-AI/ai-builders/pulls)
 เพื่อแก้ไขเนื้อหา โดยหน้าหลักของเว็บไซต์จะอยู่ในไฟล์
 
-* เกี่ยวกับเรา `about.md`
-* หน้าลงทะเบียน `register.md`
-* ข้อพึงปฏิบัติ `code-of-conduct.md`
-* บทความ `blog.md`
+- เกี่ยวกับเรา `about.md`
+- หน้าลงทะเบียน `register.md`
+- ข้อพึงปฏิบัติ `code-of-conduct.md`
+- บทความ `blog.md`
