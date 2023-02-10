@@ -26,7 +26,7 @@ Facebook Page: [AI Builders](https://www.facebook.com/aibuildersx)
       <img src="docs/images/central_digital_logo.png"  height="50" />
       <img src="docs/images/dell_tech_logo.png"  height="50" />
       <img src="docs/images/pmub_logo.png"  height="50" />
-      <img src="docs/images/osk_ai.png"  height="50" />
+      <img src="docs/images/osk_ai_logo.png"  height="50" />
   </div>
 </p>
 
