@@ -4,7 +4,7 @@ title: ลงทะเบียน
 permalink: /register/
 ---
 
-คุณสามารถลงทะเบียนเข้าร่วมโครงการ AI Builders ทาง [link นี้](https://coderbyte.com/sl-candidate?promo=aibuilders-9bssg:algorithm-asses-b52i91yxns) ดูคำสั่งแปลภาษาไทยได้ที่ [aibuilders-exam-thai-instructions](https://github.com/ai-builders/aibuilders-exam-thai-instructions/blob/main/2023_exam.md)
+คุณสามารถลงทะเบียนเข้าร่วมโครงการ AI Builders ทาง [link 1](https://coderbyte.com/sl-candidate?promo=aibuilders-9bssg:algorithm-asses-b52i91yxns) | [link 2](https://coderbyte.com/sl-candidate?promo=aibuilders-9bssg:algorithm-asses-1havcpnohg) ดูคำสั่งแปลภาษาไทยได้ที่ [aibuilders-exam-thai-instructions](https://github.com/ai-builders/aibuilders-exam-thai-instructions/blob/main/2023_exam.md)
 
 **ระยะเวลาเปิดรับสมัคร:** 15 กุมภาพันธ์ - 8 มีนาคม 2023 (ปิดรับสมัครเวลา 23:59 ผู้ที่สมัครหลังการรับสมัครจะไม่ได้รับพิจารณา)
 
