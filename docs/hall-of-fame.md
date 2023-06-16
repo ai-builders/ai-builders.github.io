@@ -62,7 +62,7 @@ VISTEC, Central Retail Digital, Mahidol University
 
 เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
 
-Surapot Sangasap, Thanravee Khamhaengpol
+Surapot Sangasap, Thanravee Kamhaengplon
 
 ## Mentors
 
