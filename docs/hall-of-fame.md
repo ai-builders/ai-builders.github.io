@@ -6,6 +6,56 @@ permalink: /hall-of-fame/
 
 ทำเนียบบันทึกนักเรียนที่จบการศึกษา, Mentor, Teaching Assistant, และผู้ให้การสนับสนุนโครงการ AI Builders
 
+# AI Builders 2023
+
+## Graduated Students
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Atibodee Kuiprasert, Pataradanai Akkratch, Picha Jetsadapattarakul, Settapun Laoaree, Jenta Wonglertsakul, Krittiwit Kampradam, Thee Kittivorapat, Puratsakorn Kietnonthapat, Pasit Khumsena, Thanakit Chongwilaikasem, Tawin Jiramahapokee, Thirada Thomnam, Arucha Khematharonon, Aritat Suriyapattanapong, Kornrawee Kochtat, Saktanuth Praditukrit, Nutdanai Jaratwiboonkul, Tarit Witworrasakul, Suweeraya Noensai, Jirat Chiaranaipanich, Nonthapat Sriboonruang, Supawit Marayat, Rasita Vajapattana, Natthawee Naewkumpol, Luka Chanakan Bond, Thanutham Supphaphon, Pakin Olanraktham, Kontuch Suksawat, Pittinan Wettayanon, Chetphisuth Tongpa, Pawinthawat Chandravat, Pannatat Pipopkullaporn, Nutnornont Chamadol, Pantai Suyasri, Alongkorn Kaewprom, Darakarn Limkool, Plengpin Tongdon-ngao, Pipatpong Chuchuai
+
+## รางวัลโครงงานปัญญาประดิษฐ์ดีเด่นจากคณะกรรมการ
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Loren Ipsum
+
+## Mentors
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Aritad Choicharoon, Charin Polpanumas, Lalita Lowphansirikul, Nutt Rangsiman, Pakin Siwatammarat, Panthon Imemkamon, Panuthep Tasawong, Panyawut Sri-iesaranusorn, Phiradet Bangcharoensap, Titipat Achakulvisut, Wannaphong Phatthiyaphaibun
+
+## Teaching Assistants
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Atirut Boribalburephan, Hirunkul Phimsiri, Kampanart Chaimooltan, Lalita Deelert, Nattakorn Kachainthon,, Nayos Suwatano, Saran Pannasuriyaporn, Tanakrit Saiphan, Thanapat Chotipun, Thepbordin Jaiinsom, Wittawat Kitipatthavorn, Worakan Lasudee
+
+## Program Facilitators
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Loren Ipsum
+
+## Sponsors
+
+### Diamond
+
+PMU-B, AWS
+
+### Platninum
+
+Dell
+
+### Gold
+
+Krungsri Nimble, OSK Artificial Intelligence, VISAI
+
+## Organizers
+
+VISTEC, Central Retail Digital, Mahidol University
+
 # AI Builders 2022
 
 Teaching Assistant ทุกคนของ AI Builders 2022 เป็นอาสาสมัคร
@@ -14,7 +64,7 @@ Teaching Assistant ทุกคนของ AI Builders 2022 เป็นอา�
 
 เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
 
-Chinavat Nachaithong, Chotanansub Sophaken, Chotiwat Tangsathaphorn, Hirunkul Phimsiri, Idhibhat Pankam, Jessada Pranee, Jira Kuljirapong, Jittaraboon Sapsinthaweelap, Kanpat Vesessook, Kantapong Wongpanich, Khanut Boonjong, Kittipong Tapyou, Kornkamol Saengsawang, Krongpop Munkong, Manissara Saejun, Mawin Srichat, Nadol Pipattikanan, Naphat Saereerak, Natthawadee Leephatarakit, Nattkorn Kachainthon, Nayos Suwatano, Nithiwat Sirirattanachaikul, Nitisarath Phuttiphaphong, Nonthapan Wongkanha, Noppawit Tantisiriwat, Pannathorn Krudthong, Panuawat Wongpattanawut, Parinthapat Pengpun, Peeranat Mekwisit, Phakawut Thummawuttikul, Phakkhaphon Artburai, Phawat Leechasan, Pollakrit Satasin, Praewa Choobanna, Purich Siritip, Putthakhun Boonchai, Ratchanon Mookkaew, Supachok Butdeekhan, Tanaanan Chalearmpan, Tanapon Thongchamnong, Tee Hemjinda, Thepbordin Jaiinsom, Wachirawit Chaiyamat, Wittawat Kitipatthavorn, Worakan Lasudee
+Chinavat Nachaithong, Chotanansub Sophaken, Chotiwat Tangsathaphorn, Hirunkul Phimsiri, Idhibhat Pankam, Jessada Pranee, Jira Kuljirapong, Jittaraboon Sapsinthaweelap, Kanpat Vesessook, Kantapong Wongpanich, Khanut Boonjong, Kittipong Tapyou, Kornkamol Saengsawang, Krongpop Munkong, Manissara Saejun, Mawin Srichat, Nadol Pipattikanan, Naphat Saereerak, Natthawadee Leephatarakit, Nattakorn Kachainthon, Nayos Suwatano, Nithiwat Sirirattanachaikul, Nitisarath Phuttiphaphong, Nonthapan Wongkanha, Noppawit Tantisiriwat, Pannathorn Krudthong, Panuawat Wongpattanawut, Parinthapat Pengpun, Peeranat Mekwisit, Phakawut Thummawuttikul, Phakkhaphon Artburai, Phawat Leechasan, Pollakrit Satasin, Praewa Choobanna, Purich Siritip, Putthakhun Boonchai, Ratchanon Mookkaew, Supachok Butdeekhan, Tanaanan Chalearmpan, Tanapon Thongchamnong, Tee Hemjinda, Thepbordin Jaiinsom, Wachirawit Chaiyamat, Wittawat Kitipatthavorn, Worakan Lasudee
 
 ## รางวัลโครงงานปัญญาประดิษฐ์ดีเด่นจากคณะกรรมการ
 
