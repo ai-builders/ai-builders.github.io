@@ -30,7 +30,7 @@ Aritad Choicharoon, Charin Polpanumas, Lalita Lowphansirikul, Nutt Rangsiman, Pa
 
 เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
 
-Atirut Boribalburephan, Hirunkul Phimsiri, Kampanart Chaimooltan, Lalita Deelert, Nattakorn Kachainthon,, Nayos Suwatano, Saran Pannasuriyaporn, Tanakrit Saiphan, Thanapat Chotipun, Thepbordin Jaiinsom, Wittawat Kitipatthavorn, Worakan Lasudee
+Atirut Boribalburephan, Hirunkul Phimsiri, Kampanart Chaimooltan, Lalita Deelert, Nattakorn Kachainthon, Nayos Suwatano, Saran Pannasuriyaporn, Tanakrit Saiphan, Thanapat Chotipun, Thepbordin Jaiinsom, Wittawat Kitipatthavorn, Worakan Lasudee
 
 ## Program Facilitators
 
@@ -55,6 +55,34 @@ Krungsri Nimble, OSK Artificial Intelligence, VISAI
 ## Organizers
 
 VISTEC, Central Retail Digital, Mahidol University
+
+# AI Builders x NMRSW2 2022
+
+## Graduated Students
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Surapot Sangasap, Thanravee Khamhaengpol
+
+## Mentors
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Hirunkul Phimsiri, Charin Polpanumas
+
+# AI Builders x Chitralada 2022
+
+## Graduated Students
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Natthawin Taeprasert, Pataranan Sethpakdee
+
+## Mentors
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Nayos Suwatano, Tanakrit Saiphan
 
 # AI Builders 2022
 
