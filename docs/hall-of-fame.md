@@ -12,7 +12,7 @@ permalink: /hall-of-fame/
 
 เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
 
-Atibodee Kuiprasert, Pataradanai Akkratch, Picha Jetsadapattarakul, Settapun Laoaree, Jenta Wonglertsakul, Krittiwit Kampradam, Thee Kittivorapat, Puratsakorn Kietnonthapat, Pasit Khumsena, Thanakit Chongwilaikasem, Tawin Jiramahapokee, Thirada Thomnam, Arucha Khematharonon, Aritat Suriyapattanapong, Kornrawee Kochtat, Saktanuth Praditukrit, Nutdanai Jaratwiboonkul, Tarit Witworrasakul, Suweeraya Noensai, Jirat Chiaranaipanich, Nonthapat Sriboonruang, Supawit Marayat, Rasita Vajapattana, Natthawee Naewkumpol, Luka Chanakan Bond, Thanutham Supphaphon, Pakin Olanraktham, Kontuch Suksawat, Pittinan Wettayanon, Chetphisuth Tongpa, Pawinthawat Chandravat, Pannatat Pipopkullaporn, Nutnornont Chamadol, Pantai Suyasri, Alongkorn Kaewprom, Darakarn Limkool, Plengpin Tongdon-ngao, Pipatpong Chuchuai
+Alongkorn Kaewprom, Aritat Suriyapattanapong, Arucha Khematharonon, Atibodee Kuiprasert, Chetphisuth Tongpa, Darakarn Limkool, Jenta Wonglertsakul, Jirat Chiaranaipanich, Kampanat Yingseree, Kontuch Suksawat, Kornrawee Kochtat, Krittiwit Kampradam, Luka Chanakan Bond, Natthawee Naewkumpol, Nonthapat Sriboonruang, Nutdanai Jaratwiboonkul, Nutnornont Chamadol, Pakin Olanraktham, Pannatat Pipopkullaporn, Pantai Suyasri, Pasit Khumsena, Pataradanai Akkratch, Pawinthawat Chandravat, Picha Jetsadapattarakul, Pipatpong Chuchuai, Pittinan Wettayanon, Plengpin Tongdon-ngao, Pream Pitchapa, Puratsakorn Kietnonthapat, Rasita Vajapattana, Saktanuth Praditukrit, Settapun Laoaree, Supawit Marayat, Suweeraya Noensai, Tarit Witworrasakul, Tawin Jiramahapokee, Thanakit Chongwilaikasem, Thanutham Supphaphon, Thee Kittivorapat, Thirada Thomnam
 
 ## รางวัลโครงงานปัญญาประดิษฐ์ดีเด่นจากคณะกรรมการ
 
