@@ -76,7 +76,7 @@ Hirunkul Phimsiri, Charin Polpanumas
 
 เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
 
-Natthawin Taeprasert, Pataranan Sethpakdee
+Natthawin Tamprasert, Pataranan Sethpakdee
 
 ## Mentors
 
