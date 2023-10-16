@@ -18,7 +18,7 @@ Alongkorn Kaewprom, Aritat Suriyapattanapong, Arucha Khematharonon, Atibodee Kui
 
 เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
 
-Loren Ipsum
+
 
 ## Mentors
 
@@ -36,7 +36,8 @@ Atirut Boribalburephan, Hirunkul Phimsiri, Kampanart Chaimooltan, Lalita Deelert
 
 เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
 
-Loren Ipsum
+
+Teetawat Lapsongpon, Onarin Lapvetee, Thanaree Srichainont, Makkawan Burana-amuay, Kridakan Phinidchai, Kanyarat Saardeam, Pajaree Munesuwan, Wachirawish Wongfongnuan
 
 ## Sponsors
 
