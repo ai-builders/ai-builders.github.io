@@ -6,6 +6,9 @@ permalink: /hall-of-fame/
 
 ทำเนียบบันทึกนักเรียนที่จบการศึกษา, Mentor, Teaching Assistant, และผู้ให้การสนับสนุนโครงการ AI Builders
 
+
+<hr>
+
 # AI Builders 2023
 
 ## Graduated Students
@@ -57,6 +60,8 @@ Krungsri Nimble, OSK Artificial Intelligence, VISAI
 
 VISTEC, Central Retail Digital, Mahidol University
 
+<hr>
+
 # AI Builders x NMRSW2 2022
 
 ## Graduated Students
@@ -84,6 +89,8 @@ Natthawin Tamprasert, Pataranan Sethpakdee
 เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
 
 Nayos Suwatano, Tanakrit Saiphan
+
+<hr>
 
 # AI Builders 2022
 
@@ -129,6 +136,8 @@ AIA, DELL, Central Digital
 
 Kasikorn Bank
 
+<hr>
+
 # AI Builders 2021
 
 โครงการ AI Builders จัดตั้งขึ้นในปี 2021 ด้วยความสนับสนุนจาก VISTEC, AIResearch และ Central Tech ทีมงานจัดโครงการและ Mentor เป็นอาสาสมัคร
@@ -153,11 +162,15 @@ Charin Polpanumas, Titipat Achakulvisut, Peerat Limkonchotiwat, Benyapa Matupuma
 
 VISTEC, AIResearch.in.th, Central Tech
 
+<hr>
+
 # Evergreen Mechanics
 
 ## Pre-course Workshops and Tests
 
 Abhabongse Janthong, Nattapol Vannaboot, Chonlapat Patanajirasit
+
+<hr>
 
 ## Curriculum Creators
 
