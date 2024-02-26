@@ -16,6 +16,8 @@ AI Builders เป็นโครงการสำหรับน้องๆ�
 
 โครงการ AI Builders ก่อตั้งขึ้นในปี 2021 จากความร่วมมือระหว่าง VISTEC/VISAI และ Central Retail Digital เพื่อพัฒนาองค์ความรู้ทางด้านวิทยาศาสตร์ข้อมูล (Data Science) และปัญญาประดิษฐ์ (Artificial Intelligence / AI) ให้กับน้องๆระดับมัธยมต้น-ปลาย ที่สนใจอยากเรียนรู้และพัฒนาโครงงานที่ใช้ทักษะในด้านนี้เพื่อประยุกต์ใช้จริงในชีวิตประจำวัน
 
+ผู้สนับสนุน 2024: PMU-B, AWS, Central Retail Digital และ 425 Degree
+
 ผู้สนับสนุน 2023: PMU-B, AWS, DELL, OSKAI, VISAI, Krungsri Nimble
 
 ผู้สนับสนุน 2022: VISAI, Krungsri Nimble, AWS, AIA, DELL และ Central Digital
@@ -25,6 +27,18 @@ AI Builders เป็นโครงการสำหรับน้องๆ�
 Facebook Page: [AI Builders](https://www.facebook.com/aibuildersx)
 
 ## Our Sponsors
+
+### AI Builders 2024
+
+<p class="sponsor-imgs">
+  <div class="row">
+      <img src="docs/images/pmub_logo.png"  height="50" />
+      <img src="docs/images/AWS_logo.png"  height="50" />
+      <img src="docs/images/vistec_logo.png"  height="50" />
+      <img src="docs/images/central_digital_logo.png"  height="50" />
+      <img src="docs/images/425degree_logo.png"  height="50" />
+  </div>
+</p>
 
 ### AI Builders 2023
 

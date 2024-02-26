@@ -4,19 +4,19 @@ title: ลงทะเบียน
 permalink: /register/
 ---
 
-คุณสามารถลงทะเบียนเข้าร่วมโครงการ AI Builders ทาง [link 1](https://coderbyte.com/sl-candidate?promo=aibuilders-9bssg:algorithm-asses-b52i91yxns) หรือ [link 2](https://coderbyte.com/sl-candidate?promo=aibuilders-9bssg:algorithm-asses-1havcpnohg) หรือ [link 3](https://coderbyte.com/sl-candidate?promo=aibuilders-9bssg:algorithm-asses-lyl9ftgnk7) ดูคำสั่งแปลภาษาไทยได้ที่ [aibuilders-exam-thai-instructions](https://github.com/ai-builders/aibuilders-exam-thai-instructions/blob/main/2023_exam.md)
+คุณสามารถลงทะเบียนเข้าร่วมโครงการ AI Builders ทาง [link_1](https://coderbyte.com/sl-candidate?promo=aibuilders-9bssg:algorithm-asses-b52i-5ivavnz&invb=userjznz8hnq6) ดูคำสั่งแปลภาษาไทยได้ที่ [aibuilders-exam-thai-instructions](https://github.com/ai-builders/aibuilders-exam-thai-instructions/blob/main/2024_exam.md)
 
-**ระยะเวลาเปิดรับสมัคร:** 15 กุมภาพันธ์ - 8 มีนาคม 2023 (ปิดรับสมัครเวลา 23:59 ผู้ที่สมัครหลังการรับสมัครจะไม่ได้รับพิจารณา)
+**ระยะเวลาเปิดรับสมัคร:** 28 กุมภาพันธ์ - 17 มีนาคม 2023 (ปิดรับสมัครเวลา 23:59 ผู้ที่สมัครหลังการรับสมัครจะไม่ได้รับพิจารณา)
 
-**ผู้มีสิทธิ์สมัคร:** ผู้ที่มีสถานะเป็นนักเรียนมัธยมในปี 2023 รวมถึงนักเรียนเรียนที่จบ ม.6 ในปี 2023
+**ผู้มีสิทธิ์สมัคร:** ผู้ที่มีสถานะเป็นนักเรียนมัธยมในปี 2024 รวมถึงนักเรียนเรียนที่จบ ม.6 ในปี 2024
 
 คุณจำเป็นต้องตอบ **ทุกคำถาม** ทั้ง coding assessment คำถามอัตนัย และคำถามปรนัยอย่างเต็มความสามารถ เราสงวนสิทธิ์ที่จะปฏิเสธการเข้าร่วมสำหรับผู้สมัครที่ไม่ทำตามข้อปฏิบัติของแบบทดสอบ-มีเหตุให้เชื่อว่ามีการทุจริตตามดุลยพินิจของผู้จัดโครงการ
 
-หลังกด Begin Assessment เพื่อเริ่มการทดสอบแล้ว **คุณมีเวลาจนถึง 23:59 น. 8 มีนาคม 2023** ในการทำข้อสอบให้เสร็จ ทุกปัญหาที่กด Submit Assessment เพื่อส่งคำตอบแล้วไม่สามารถกลับมาแก้ได้
+หลังกด Begin Assessment เพื่อเริ่มการทดสอบแล้ว **คุณมีเวลาจนถึง 23:59 น. 17 มีนาคม 2024** ในการทำข้อสอบให้เสร็จ ทุกปัญหาที่กด Submit Assessment เพื่อส่งคำตอบแล้วไม่สามารถกลับมาแก้ได้
 
 **ตรวจทานก่อนส่ง** โปรดตรวจสอบข้อมูลก่อนลงทะเบียน เนื่องจากคุณไม่สามารถลงทะเบียนซ้ำได้
 
-- [รายละเอียดการลงทะเบียน](../registration-info-2023/)
+- [รายละเอียดการลงทะเบียน](../registration-info-2024/)
 - [ปรับพื้นฐานก่อนเรียน](../before-class/)
 
 ### คำสัญญาและข้อพึงปฏิบัติ
