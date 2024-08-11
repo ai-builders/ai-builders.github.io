@@ -6,6 +6,45 @@ permalink: /hall-of-fame/
 
 ทำเนียบบันทึกนักเรียนที่จบการศึกษา, Mentor, Teaching Assistant, และผู้ให้การสนับสนุนโครงการ AI Builders
 
+# AI Builders 2024
+
+## Graduated Students
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Ananya Kanaraksanti, Benyapa Takhwankeaw, Bunyaphon Chaimongkolsup, Chananchai Chanmol, Chayanon Promchaiya, Chonlana Kruawuthikun, Chonpatchut Boonpalit, Guntee Doungmanee, Kannawich Munsak, Khathathorn Jongkohpo, Nattapat Emseedaeng, Nattapong Pakdeeviboon, Nattavee Sunitsakul, Nontapat Auetrongjit, Paphada Saengpridikorn, Parinpat Larpjaroenphorn, Pawan Jakkaew, Peemmaphat Sripongsai, Phetdau Dueramae, Phoowara Watchararat, Punnut Chirdchuvutikun, Ratchakrit Mojomsin, Siravit Keeratipranon, Sittipark Kaewka, Suppamok Tosranon, Thanaphum Saywongin, Thapawee Srijuntong, Tharadon Jitsue, Thawat Khumphaen, Theeratdolchat Chatchai, Yanisa Khwanjaisakul
+
+## รางวัลโครงงานปัญญาประดิษฐ์ดีเด่นจากคณะกรรมการ
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Lorem Ipsum
+
+## Mentors
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Hirunkul Phimsiri, Krichkorn Oparad, Maytus Piriyajitakonkij, Panuthep Tasawong, Peerat Limkonchotiwat, Sisira Sriyapan, Tanakrit Saiphan, Wannaphong Phatthiyaphaibun, Wasurat Soontronchai, Witchapong Daroontham
+
+## Teaching Assistants
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Lorem Ipsum
+
+## Program Facilitators
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Charin Polpanumas, Pakpoom Buabthong, Titipat Achakulvisut
+
+## Sponsors
+
+PMU-B, 425 Degree
+
+## Organizers
+
+VISTEC, Central Retail Digital, Mahidol University
 
 <hr>
 
