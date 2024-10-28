@@ -54,13 +54,13 @@ VISTEC, Central Retail Digital, Mahidol University
 
 เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
 
-Alongkorn Kaewprom, Aritat Suriyapattanapong, Arucha Khematharonon, Atibodee Kuiprasert, Chetphisuth Tongpa, Darakarn Limkool, Jenta Wonglertsakul, Jirat Chiaranaipanich, Kampanat Yingseree, Kontuch Suksawat, Kornrawee Kochtat, Krittiwit Kampradam, Luka Chanakan Bond, Natthawee Naewkumpol, Nonthapat Sriboonruang, Nutdanai Jaratwiboonkul, Nutnornont Chamadol, Pakin Olanraktham, Pannatat Pipopkullaporn, Pantai Suyasri, Pasit Khumsena, Pataradanai Akkratch, Pawinthawat Chandravat, Picha Jetsadapattarakul, Pipatpong Chuchuai, Pittinan Wettayanon, Plengpin Tongdon-ngao, Pream Pitchapa, Puratsakorn Kietnonthapat, Rasita Vajapattana, Saktanuth Praditukrit, Settapun Laoaree, Supawit Marayat, Suweeraya Noensai, Tarit Witworrasakul, Tawin Jiramahapokee, Thanakit Chongwilaikasem, Thanutham Supphaphon, Thee Kittivorapat, Thirada Thomnam
+Alongkorn Kaewprom, Aritat Suriyapattanapong, Arucha Khematharonon, Atibodee Kuiprasert, Chetphisuth Tongpa, Darakarn Limkool, Jenta Wonglertsakul, Jirat Chiaranaipanich, Kampanat Yingseree, Kontuch Suksawat, Kornrawee Kochtat, Krittiwit Kampradam, Luka Chanakan Bond, Natthawee Naewkumpol, Nonthapat Sriboonruang, Nutdanai Jaratwiboonkul, Nutnornont Chamadol, Pakin Olanraktham, Pannatat Pipopkullaporn, Pantai Suyasri, Pasit Khumsena, Pattaradanai Akkharat, Pawinthawat Chandravat, Picha Jetsadapattarakul, Pipatpong Chuchuai, Pittinan Wettayanon, Plengpin Tongdon-ngao, Pream Pitchapa, Puratsakorn Kietnonthapat, Rasita Vajapattana, Saktanuth Praditukrit, Settapun Laoaree, Supawit Marayat, Suweeraya Noensai, Tarit Witworrasakul, Tawin Jiramahapokee, Thanakit Chongwilaikasem, Thanutham Supphaphon, Thee Kittivorapat, Thirada Thomnam
 
 ## รางวัลโครงงานปัญญาประดิษฐ์ดีเด่นจากคณะกรรมการ
 
 เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
 
-Jenta Wonglertsakul, Nutdanai Jaratwiboonkul, Pantai Suyasri, Pataradanai Akkratch
+Jenta Wonglertsakul, Nutdanai Jaratwiboonkul, Pantai Suyasri, Pattaradanai Akkharat
 
 ## Mentors
 
