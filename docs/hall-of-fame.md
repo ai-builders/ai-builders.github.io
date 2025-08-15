@@ -6,6 +6,52 @@ permalink: /hall-of-fame/
 
 ทำเนียบบันทึกนักเรียนที่จบการศึกษา, Mentor, Teaching Assistant, และผู้ให้การสนับสนุนโครงการ AI Builders
 
+# AI Builders 2025
+
+## Graduated Students
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Apinya Sangkasunya, Bhanya Wongpetchvichean, Chaichanok Angchanphen, Chanisorn Siritanakorn, Chawanat Duangpattra, Janenatch Sukhato, Jiraphat Punthsang, Jirat Wenlock Haseley, Kittiphop Khiansa, Kittipon Thanee, Naphat Sornwichai, Natawin Techawatcharapaikul, Nattakit Chantara-aree, Pachara Thammasat, Pakin Sukchan, Panisara Triamrangsee, Passawut Chutiparcharkij, Pavarisa Treewichayapong, Payuth Charoensri, Peam Rattanaparapa, Phatthanasak Kraiduang, Pichamon Muroh, Ryutara Kiedcharoensiri, Shitiphat Soysangwarn, Songphol Saikhwa, Suteetida Piyajongwiwatana, Techin Pongmookda, Techit Tangmaneenimit, Thanachot Thetkan, Thitat Vorachitsanti, Wasin Srivanich, Watthanon Boonyapakorn, Witsanupong Kokakul
+
+## รางวัลโครงงานปัญญาประดิษฐ์ดีเด่นจากคณะกรรมการ
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Peam Rattanaparapa, Pichamon Muroh, Watthanon Boonyapakorn, Natawin Techawatcharapaikul, Passawut Chutiparcharkij, Pavarisa Treewichayapong, Witsanupong Kokakul
+
+## Sarinee Achavanuntakul AI for Sustainability Prize
+
+Panisara Triamrangsee, Pichamon Muroh
+
+## Mentors
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Charin Polpanumas, Chonlapat Patanajirasit, Oat Jayakorn Vongkulbhisal, Pakin Siwatammarat, Panthon Imemkamon, Panuthep Tasawong, Panyawut Sri-iesaranusorn, Wannaphong Phatthiyaphaibun, Wasurat Soontronchai, Witchapong Daroontham, Wittawat Kitipatthavorn
+
+## Teaching Assistants
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Benyapa Matupumanon, Jenta Wonglertsakul, Nattapong Pakdeeviboon, Nutnornont Chamadol, Pattaradanai Akkharat, Peeranat Mekwisit, Settapun Laoaree, Sisira Sriyapan, Thanapat Chotipun, Worakan Lasudee
+
+## Program Facilitators
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Charin Polpanumas, Krichkorn Oparad, Pakpoom Buabthong, Rachata Ausavarungnirun, Titipat Achakulvisut
+
+## Sponsors
+
+PMU-B, 425 Degree
+
+## Organizers
+
+VISTEC, Central Retail Digital, Mahidol University
+
+<hr>
+
 # AI Builders 2024
 
 ## Graduated Students
