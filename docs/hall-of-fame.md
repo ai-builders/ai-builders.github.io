@@ -30,7 +30,7 @@ Hirunkul Phimsiri, Krichkorn Oparad, Maytus Piriyajitakonkij, Panuthep Tasawong,
 
 เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
 
-Lorem Ipsum
+Arucha Khematharonon, Jenta Wonglertsakul, Luka Chanakan Bond, Nattakorn Kachainthon, Parinthapat Pengpun, Purich Siritip, Tawin Jiramahapokee, Thanapat Chotipun, Wasurath Singkhon, Wittawat Kitipatthavorn, Worakan Lasudee
 
 ## Program Facilitators
 
