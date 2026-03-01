@@ -4,19 +4,19 @@ title: ลงทะเบียน
 permalink: /register/
 ---
 
-คุณสามารถลงทะเบียนเข้าร่วมโครงการ AI Builders ทาง Coderbyte [URL 1](https://coderbyte.com/sl-candidate?promo=aibuilders-9bssg:algorithm-asses-b52i-dh0x1gu&invb=userjznz8hnq6) [URL 2](https://coderbyte.com/sl-candidate?promo=aibuilders-9bssg:algorithm-asses-b52i-w24tfyb&invb=userjznz8hnq6) ดูคำสั่งแปลภาษาไทยได้ที่ [aibuilders-exam-thai-instructions](https://github.com/ai-builders/aibuilders-exam-thai-instructions/blob/main/2025/2025_exam.md)
+คุณสามารถลงทะเบียนเข้าร่วมโครงการ AI Builders ทาง Coderbyte [URL 1](https://coderbyte.com/sl-candidate?promo=aibuilders-9bssg:algorithm-asses-b52i-bnv6p26&invb=userjznz8hnq6) [URL 2](https://coderbyte.com/sl-candidate?promo=aibuilders-9bssg:algorithm-asses-b52i-6g2r3t1&invb=userjznz8hnq6)
 
-**ระยะเวลาเปิดรับสมัคร:** 1 - 18 มีนาคม 2025 (ปิดรับสมัครเวลา 23:59 ผู้ที่สมัครหลังการรับสมัครจะไม่ได้รับพิจารณา)
+**ระยะเวลาเปิดรับสมัคร:** 4 - 17 มีนาคม 2026 (ปิดรับสมัครเวลา 23:59 ผู้ที่สมัครหลังการรับสมัครจะไม่ได้รับพิจารณา)
 
-**ผู้มีสิทธิ์สมัคร:** ผู้ที่มีสถานะเป็นนักเรียนมัธยมในปี 2025 รวมถึงนักเรียนเรียนที่จบ ม.6 ในปี 2025
+**ผู้มีสิทธิ์สมัคร:** ผู้ที่มีสถานะเป็นนักเรียนมัธยมในปี 2026 รวมถึงนักเรียนเรียนที่จบ ม.6 ในปี 2026
 
 คุณจำเป็นต้องตอบ **ทุกคำถาม** ทั้ง coding assessment คำถามอัตนัย และคำถามปรนัยอย่างเต็มความสามารถ เราสงวนสิทธิ์ที่จะปฏิเสธการเข้าร่วมสำหรับผู้สมัครที่ไม่ทำตามข้อปฏิบัติของแบบทดสอบ-มีเหตุให้เชื่อว่ามีการทุจริตตามดุลยพินิจของผู้จัดโครงการ
 
-หลังกด Begin Assessment เพื่อเริ่มการทดสอบแล้ว **คุณมีเวลาจนถึง 23:59 น. 18 มีนาคม 2025** ในการทำข้อสอบให้เสร็จ ทุกปัญหาที่กด Submit Assessment เพื่อส่งคำตอบแล้วไม่สามารถกลับมาแก้ได้
+หลังกด Begin Assessment เพื่อเริ่มการทดสอบแล้ว **คุณมีเวลาจนถึง 23:59 น. 17 มีนาคม 2025** ในการทำข้อสอบให้เสร็จ ทุกปัญหาที่กด Submit Assessment เพื่อส่งคำตอบแล้วไม่สามารถกลับมาแก้ได้
 
 **ตรวจทานก่อนส่ง** โปรดตรวจสอบข้อมูลก่อนลงทะเบียน เนื่องจากคุณไม่สามารถลงทะเบียนซ้ำได้
 
-- [รายละเอียดการลงทะเบียน](../registration-info-2025/)
+- [รายละเอียดการลงทะเบียน](../registration-info-2026/)
 - [ปรับพื้นฐานก่อนเรียน](../before-class/)
 
 ### คำสัญญาและข้อพึงปฏิบัติ
