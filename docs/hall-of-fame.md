@@ -6,6 +6,58 @@ permalink: /hall-of-fame/
 
 ทำเนียบบันทึกนักเรียนที่จบการศึกษา, Mentor, Teaching Assistant, และผู้ให้การสนับสนุนโครงการ AI Builders
 
+# AI Builders 2026
+
+## Graduated Students
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Anavin Srison, Chawin Sumitra, Chayanit Chansuttikanok, Ingkapat Jantayavichit, Jadesadakorn Kamolvimutsarn, Kachornattaphon Khumyaito, Kantaphon Sujjapong, Kawin Kaewstitphornchai, Kawintorn Rodpan, Korawith Meechai, Marie Sleewaegen, Nasuda Huntrakul, Nathanon Ratchathornbuathip, Nattawat Laosinchai, Navidhus Subsange, Parasa Pichayawat, Phukit Chantratip, Piphat Vikornmesakul, Pleumpreeti Ariyasura, Punda Buasen, Ratthapong Diewwilai, Rochaya Chawengkijwanich, Sirikan Klinbua, Sivarit Choosiri, Sualp Oven, Tantai Sakonkumhang, Tarit Homsuwan, Teepakorn Srinual, Thatt Bunnag, Trikhun Anurak, Wachirawit Charoenkitpeeti, Wichapat Sothorntweepong, Wuttiwat Ruaengwarapitak
+
+## รางวัลโครงงานปัญญาประดิษฐ์ดีเด่นจากคณะกรรมการ
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Chawin Sumitra, Jadesadakorn Kamolvimutsarn, Nattawat Laosinchai, Thatt Bunnag
+
+## รางวัลโปสเตอร์ดีเด่น
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Chayanit Chansuttikanok, Kawintorn Rodpan, Ratthapong Diewwilai, Sualp Oven, Tantai Sakonkumhang
+
+## Sarinee Achavanuntakul AI for Sustainability Prize
+
+Jadesadakorn Kamolvimutsarn, Punda Buasen
+
+## Mentors
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Charin Polpanumas, Pakin Siwatammarat, Panthon Imemkamon, Sisira Sriyapan, Thanapat Chotipun, Thaweesuk Chusri, Titipat Achakulvisut, Wannaphong Phatthiyaphaibun, Wasurat Soontronchai, Witchapong Daroontham
+
+## Teaching Assistants
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Chonpatchut Boonpalit, Jenta Wonglertsakul, Naphat Sornwichai, Nattapong Pakdeeviboon, Nattavee Sunitsakul, Pattaradanai Akkharat, Purich Siritip, Settapun Laoaree, Siravit Keeratipranon, Wittawat Kitipatthavorn
+
+## Program Facilitators
+
+เรียงลำดับตามตัวอักษรแรกของชื่อต้น:
+
+Charin Polpanumas, Joompot Sriyapan, Krichkorn Oparad, Nissa Lin, Panthon Imemkamon, Punnawish Thuwajit, Rachata Ausavarungnirun, Titipat Achakulvisut, Wittawadee Sriyapan
+
+## Sponsors
+
+PMU-B, 425 Degree, Siam Piwat, SCB Thailand
+
+## Organizers
+
+Mahidol University, Central Retail Digital, 425 Degree
+
+<hr>
+
 # AI Builders 2025
 
 ## Graduated Students
